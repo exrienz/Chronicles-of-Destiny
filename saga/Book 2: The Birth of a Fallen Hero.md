@@ -1,1 +1,1 @@
-
+5 years after the incident, heroin Finriel Silverbreeze (Fin) was born. with hero marks. she was an elf, Fin, and born in Silverglade, the capital city of Sylvania. The hope seems to shine again. She was compatible with the "Druid" job and started the training to become the next heroin, shouldering a huge burden of tasks on her shoulder. Even so, she is keen to do her best in her job. To free Mythosia from the demon, one and for all. 
