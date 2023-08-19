@@ -1,6 +1,9 @@
 
 # World: Mythosia
 
+40% Sea,40% Land,10% Unexplored/Dangerous Land Region
+
+
 ## Kingdom 1: Eldoria
 - **Capital:** Arcanis
 - **Government:** Monarchy with a Council of Advisors
