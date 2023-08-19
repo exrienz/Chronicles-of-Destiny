@@ -9,4 +9,8 @@ Guiding Bryn to safety, Ignisar sought refuge in its hidden cavern. There, Bryn 
 
 10 years later, Brian who was now a young adult embark on a journey, as a hero candidate.
 
+..
+
+Bryn will fight demon general strongest fighter (FIN), break her spell. Re affirm her strength. Run away together. fin still weak.
+
 
