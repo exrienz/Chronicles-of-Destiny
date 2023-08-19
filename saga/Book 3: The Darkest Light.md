@@ -6,3 +6,7 @@ However, when Bryn reached the age of ten, fate took an unexpected turn. The sec
 In his darkest hour, Bryn found salvation in the form of Ignisar, the ancient dragon of balance. Ignisar engaged the trio of demon generals in a fierce battle, though not without incurring injuries himself. Likewise, the demon commanders suffered grievous wounds. Seizing an opportune moment, Ignisar seized Bryn and took flight from the tumultuous scene. Fuelled by rage, one of the demon generals, consumed by vengeful fury, laid waste to the island, annihilating Bryn's friends and kin. Helpless, Bryn watched through tears as his past was engulfed in flames.
 
 Guiding Bryn to safety, Ignisar sought refuge in its hidden cavern. There, Bryn was shielded from the sinister clutches of the demon horde, safe within the sanctuary provided by the ancient dragon.
+
+10 years later, Brian who was now a young adult embark on a journey, as a hero candidate.
+
+
