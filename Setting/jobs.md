@@ -48,8 +48,40 @@
      - Description: Possessing the power to control life force, they can bring death with a mere touch.
      - Weapon: Scythe
 
+4. **Sage**
+   - Description: A wise scholar with a deep understanding of ancient knowledge, capable of harnessing the mystical energies of the universe.
+   - Weapon: Staff
 
-4. **Blacksmith**
+   - **2nd Job: Arcane Archivist**
+     - Description: A keeper of ancient tomes and artifacts, able to channel the stored wisdom to protect and empower allies.
+     - Weapon: Tome and Shield
+
+   - **3rd Job: Celestial Enchanter**
+     - Description: A conduit of celestial magic, they can manipulate the stars to unleash potent spells upon the battlefield.
+     - Weapon: Star Wand
+
+   - **Hidden Legendary Job: Astral Sage**
+     - Description: A master of astral projection, they can traverse dimensions and control cosmic forces beyond imagination.
+     - Weapon: Crystal Orb
+
+5. **Thief**
+   - Description: A nimble rogue with unmatched agility, adept at acquiring treasures through stealth and cunning tactics.
+   - Weapon: Dagger and Grappling Hook
+
+   - **2nd Job: Swindler**
+     - Description: A charming trickster who excels at manipulating opponents' perceptions, leaving them vulnerable.
+     - Weapon: Disguise Kit and Throwing Knives
+
+   - **3rd Job: Shadow Dancer**
+     - Description: A mesmerizing performer who uses dance to weave illusions and confusion among enemies.
+     - Weapon: Ribbon Whip
+
+   - **Hidden Legendary Job: Master of Shadows**
+     - Description: A true master of darkness, they can meld with shadows to become nearly invisible, striking with deadly precision.
+     - Weapon: Shadow Blade
+
+
+6. **Blacksmith**
    - Description: A skilled artisan crafting weapons and armor.
    - Weapon: Hammer and Anvil
 
@@ -65,7 +97,7 @@
      - Description: Channeling material spirits, they craft sentient items.
      - Weapon: Ethereal Forge
 
-5. **Summoner**
+7. **Summoner**
    - Description: A mage invoking creatures from other realms.
    - Weapon: Staff
 
@@ -81,7 +113,7 @@
      - Description: Channeling cosmic energy, they summon celestial beings.
      - Weapon: Starforged Staff
 
-6. **White Mage**
+8. **White Mage**
    - Description: A healer proficient in restoring health and protecting allies.
    - Weapon: Staff
 
@@ -97,7 +129,7 @@
      - Description: Wielding radiant light magic, they bring miracles.
      - Weapon: Radiant Scepter
 
-7. **Black Mage**
+9. **Black Mage**
    - Description: A spellcaster utilizing dark and destructive magic.
    - Weapon: Spellbook
 
@@ -113,7 +145,7 @@
      - Description: Tapping void energy, wielding reality-warping magic.
      - Weapon: Abyssal Tome
 
-8. **Priest**
+10. **Priest**
    - Description: A holy servant wielding divine energy for healing and protection.
    - Weapon: Mace
 
@@ -129,7 +161,7 @@
      - Description: Blessed by celestial beings, evoking celestial wrath.
      - Weapon: Celestial Staff
 
-9. **Bard**
+11. **Bard**
     - Description: A minstrel using music to inspire and manipulate emotions.
     - Weapon: Lute
 
@@ -145,7 +177,7 @@
       - Description: Reshaping reality with resonating music.
       - Weapon: Ethereal Harp
 
-10. **Druid**
+12. **Druid**
     - Description: A nature mage communicating with animals, controlling elements, and shapeshifting.
     - Weapon: Wooden Staff
 
@@ -161,7 +193,7 @@
       - Description: Merging with celestial energy, becoming nature's embodiment.
       - Weapon: Celestial Scepter
 
-11. **Time Mage**
+13. **Time Mage**
     - Description: Manipulating time, controlling temporal forces.
     - Weapon: Hourglass Focus
     - **2nd Job: Chronomancer**
@@ -176,7 +208,7 @@
       - Description: Rewriting destiny, transcending limits.
       - Weapon: Aeon Chronograph
 
-12. **Beastmaster**
+14. **Beastmaster**
     - Description: Master of taming creatures, forming bonds with a menagerie.
     - Weapon: Whip
 
@@ -192,7 +224,7 @@
       - Description: Summoning ancient colossal beasts.
       - Weapon: Titan's Bind
 
-13. **Geomancer**
+15. **Geomancer**
     - Description: Manipulating earth's energies, controlling terrain.
     - Weapon: Runed Gauntlets
 
@@ -208,7 +240,7 @@
       - Description: Reshaping land, summoning stone titans.
       - Weapon: Gaia's Grasp
 
-14. **Sky Captain**
+16. **Sky Captain**
     - Description: Aerial warrior commanding airships and wind magic.
     - Weapon: Aether Blade
 
@@ -224,7 +256,7 @@
       - Description: Commanding celestial winds, riding constellations.
       - Weapon: Starpiercer Blade
 
-15. **Enchantress**
+17. **Enchantress**
    - Description: A magic user infusing objects with mystical properties.
    - Weapon: Enchanted Wand
 
@@ -240,7 +272,7 @@
      - Description: Merging magic and alchemy, transmuting objects.
      - Weapon: Philosopher's Staff
 
-16. **Necromancer**
+18. **Necromancer**
    - Description: A dark mage controlling death forces and raising undead.
    - Weapon: Bone Staff
 
@@ -256,7 +288,7 @@
      - Description: Commanding eldritch horrors, harnessing void energy.
      - Weapon: Void Staff
 
-17. **Steam Engineer**
+19. **Steam Engineer**
    - Description: A technological genius controlling steam-powered machinery.
    - Weapon: Wrench Hammer
 
