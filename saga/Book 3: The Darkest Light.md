@@ -14,3 +14,4 @@ Guiding Bryn to safety, Ignisar sought refuge in its hidden cavern. There, Bryn 
 Bryn will fight demon general strongest fighter (FIN), break her spell. Re affirm her strength. Run away together. fin still weak.
 
 
+[47 years after the last downfall]
