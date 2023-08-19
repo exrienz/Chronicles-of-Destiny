@@ -1,4 +1,4 @@
 
-Fin and Bryn try to unites all tribe. no one want to worrk Together fight the demon army. the barrier weakened, and the demon army storm the city. 
+Fin and Bryn try to unite all tribes. no one wants to work together to fight the demon army. the barrier weakened, and the demon army storm the city. 
 
-they fight.
+they fight and almost lose until 1 by 1 another clan comes to assist. they manage to drive the demon away n ready for final showdown. 
