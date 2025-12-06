@@ -3,15 +3,15 @@
 **Overall Plot:** The world moves from tension to war, culminating in the resurrection of the Demon King and the desperate survival of the Alliance of Light.
 
 ## Chapter 1: The Shadow of War
-- **Focus:** Introduction, World Building, Tension.
-- **Plot:** Introduce Kaelen as a mercenary in a border town of Eldoria. Rumors of war are rife. Kaelen takes a job to escort a minor noble, but they are ambushed by "bandits" who are actually elite shadow agents.
-- **Key Events:** Kaelen displays his dual-wielding skill. He notices the "bandits" have military-grade discipline. The noble is killed, but Kaelen retrieves a cryptic letter the noble was carrying.
-- **Tone:** Gritty, mysterious.
+- **Focus:** Introduction, World Building, Tension, Meeting Allies.
+- **Plot:** Introduce Kaelen as a mercenary in a border town of Eldoria. Rumors of war are rife. Kaelen takes a job to escort a minor noble, but they are ambushed by "bandits" who are actually elite shadow agents. The noble is killed, but Kaelen retrieves a cryptic letter. He travels to Arcanis and, in a tavern, meets Lyra and Drakon amidst a chaotic brawl.
+- **Key Events:** Kaelen displays his dual-wielding skill against Shadow Assassins. He retrieves the Vane Letter. He enters Arcanis and gets involved in a bar fight caused by Drakon and Lyra, leading to an impromptu team-up to escape corrupt guards.
+- **Tone:** Gritty mystery shifting to chaotic action/humor.
 
-## Chapter 2: A Chance Encounter
-- **Focus:** Character Meeting, Humor.
-- **Plot:** Kaelen travels to the capital of Eldoria, Arcanis, to report the death. In a tavern, he meets Lyra (Elf Archer) and Drakon (Dragon Prince) who are in a brawl over a misunderstanding (Drakon ate someone's food). Kaelen gets dragged in.
-- **Key Events:** Bar fight (Comedic action). The three end up in a holding cell. They bond over the absurdity. Lyra teases Kaelen. They are released due to Drakon's diplomatic immunity but are now "stuck" together.
+## Chapter 2: Chains of Fate
+- **Focus:** Bonding, Humor, Exposition.
+- **Plot:** After escaping the tavern, the trio is cornered by the city watch (non-corrupt) and thrown into a holding cell. They have no choice but to talk. Kaelen is reluctant to share his burden, but Lyra pries it out of him.
+- **Key Events:** Comedic dialogue in the cell. Drakon complains about food. Lyra teases Kaelen about his "broody hero" vibe. They are released due to Drakon's diplomatic immunity but are now "stuck" together as Kaelen realizes he needs their help to deliver the letter.
 - **Tone:** Lighthearted, establishing dynamics.
 
 ## Chapter 3: The First Spark
