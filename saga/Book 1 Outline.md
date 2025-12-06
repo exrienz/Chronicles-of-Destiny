@@ -9,10 +9,10 @@
 - **Tone:** Gritty mystery shifting to chaotic action/humor.
 
 ## Chapter 2: Chains of Fate
-- **Focus:** Bonding, Humor, Exposition.
-- **Plot:** After escaping the tavern, the trio is cornered by the city watch (non-corrupt) and thrown into a holding cell. They have no choice but to talk. Kaelen is reluctant to share his burden, but Lyra pries it out of him.
-- **Key Events:** Comedic dialogue in the cell. Drakon complains about food. Lyra teases Kaelen about his "broody hero" vibe. They are released due to Drakon's diplomatic immunity but are now "stuck" together as Kaelen realizes he needs their help to deliver the letter.
-- **Tone:** Lighthearted, establishing dynamics.
+- **Focus:** Bonding, Humor, Exposition, Setting the Stage.
+- **Plot:** The trio engages in a rooftop chase against Shadow Agents but is forced to surrender to the City Watch to avoid collateral damage. In the holding cell, they bond over their "tragic backstories" and Kaelen's burden. Kaelen suffers a nightmare about his past failure.
+- **Key Events:** Rooftop battle with elite Shadow Assassins (System Alerts used). Cell conversation revealing Lyra's exile and Drakon's history. Release via diplomatic immunity (Drakon is a Prince). They retreat to a safehouse in the slums to plan. Interlude with Queen Elfiria sensing the danger.
+- **Tone:** Action-heavy start, transitioning to character bonding and political maneuvering.
 
 ## Chapter 3: The First Spark
 - **Focus:** Action, Plot Advancement.

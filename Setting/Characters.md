@@ -9,7 +9,7 @@
 - **Affiliation:** Independent / Alliance of Light (later)
 - **Appearance:** Messy black hair, sharp blue eyes, lean but muscular build. Wears light armor to prioritize speed.
 - **Personality:** Determined, slightly cynical but deeply protective. Has a dry wit and tends to make sarcastic comments in dangerous situations. Struggling with a past failure that makes him hesitant to lead.
-- **Background:** A survivor of a destroyed border village. He has been wandering as a mercenary, honing his dual-wielding skills. He possesses a latent potential that reacts to high-stress combat.
+- **Background:** A survivor of a destroyed border village (Riverwood). He witnessed the death of his childhood friend, Elara, at the hands of General Malakor. He has been wandering as a mercenary, honing his dual-wielding skills. He possesses a latent potential ("System") that reacts to high-stress combat.
 - **Dynamics:**
   - **Elfiria:** Initially sees her as an unreachable royal, but their relationship develops into a deep emotional and romantic bond as he becomes her protector.
   - **Lyra:** Constant bickering partner; they share a "siblings-in-arms" dynamic that teases at romance.
