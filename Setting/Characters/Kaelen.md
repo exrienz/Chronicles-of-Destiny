@@ -1,16 +1,36 @@
-# Kaelen
+# Kaelen (Protagonist)
 
-- **Role:** Protagonist
-- **Race:** Human
-- **Job:** Swordsman (Aiming for Blademaster / Hidden: Sword Saint)
-- **Affiliation:** Independent / Alliance of Light (later)
-- **Level:** 5 (Chapter 1) -> 6 (Chapter 3)
-- **Appearance:** Messy black hair, sharp blue eyes, lean but muscular build. Wears light armor to prioritize speed.
-- **Personality:** Determined, slightly cynical but deeply protective. Has a dry wit and tends to make sarcastic comments in dangerous situations. Struggling with a past failure that makes him hesitant to lead.
-- **Unique Trait:** "System Vision" - Sees the world with game-like UI overlays (Health bars, threat levels, trajectories). He keeps this secret.
-- **Combat Style:** Dual-wielding (Longsword + Shortsword). Relies on "Twin Fang" style.
-- **Inventory:**
-  - Steel Longsword (Standard)
-  - Shortsword (Blue hilt)
-  - Leather Armor
-  - *The Vane Letter* (Passed to Lyra)
+**Role:** Spellblade / Leader of the Exiled
+**Age:** 24
+**Race:** Human
+**Class:** Spellblade (Dual Wielder)
+**Level:** 15
+
+## Appearance
+- **Hair:** Black, messy.
+- **Eyes:** Grey.
+- **Build:** Lean, scarred.
+- **Attire:** Mix of leather and ancient armor parts.
+- **Weapons:** *Twin Stars* (Ancient Starlight Steel Swords).
+
+## Personality
+- Stoic, pragmatic.
+- Burdened by leadership.
+- Protective of his "family."
+- Haunted by Aric's death.
+
+## Abilities
+- **Blade Dance:** Rapid multi-hit combo.
+- **System Eye:** Can analyze enemies/environment.
+- **Combat Intuition:** Predicts enemy moves (learned from Aric).
+- **Starlight resonance:** Can use the Ancient Swords' magic.
+
+## Relationships
+- **Lyra:** Trusted partner/Best friend. Romantic tension (complicated).
+- **Drakon:** Brother-in-arms.
+- **Elfiria:** Romantic interest. Sworn protector.
+- **Aric:** Fallen Mentor.
+
+## Status
+- **Location:** Outer Lands (Desert Camp).
+- **Condition:** Healthy, battle-hardened.
