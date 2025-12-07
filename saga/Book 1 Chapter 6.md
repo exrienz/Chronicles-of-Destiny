@@ -283,6 +283,56 @@ She reached out and took his hand.
 
 But as he looked at the horizon, he couldn't shake the feeling that the Shadow Master was watching. And smiling.
 
+***
+
+## Part 5: The Night Before the Storm
+
+The celebrations died down as the moon rose high. The reality of what they had done settled over the Spire. They were going to war. Not a skirmish, not a border raid, but a war for the survival of the species.
+
+Kaelen couldn't sleep. He wandered the halls of the Spire, his boots clicking softly on the marble.
+
+He found Drakon in the kitchens, unsurprisingly. The dragon-man was conversing with a terrified chef.
+
+"More spice," Drakon was saying. "It needs to burn. Like my soul."
+
+"Drakon," Kaelen leaned against the doorframe. "Don't terrorize the staff."
+
+"I am not terrorizing," Drakon defended. "I am educating. These elves cook like they are afraid of flavor."
+
+"We move out at dawn," Kaelen said. "Are you ready?"
+
+Drakon stopped eating. He looked at Kaelen, his reptilian eyes serious. "I was born ready, little sword. But are you? You carry the weight of the world now. It is heavy."
+
+"I'll manage," Kaelen said.
+
+"Do not manage alone," Drakon said. "That is why you have a Pack. Or a Party. Whatever you call it."
+
+Kaelen smiled. "Thanks, big guy."
+
+He left Drakon to his spicy mutton and continued his patrol. He found Lyra on the roof, sharpening her bolts.
+
+"You're loud when you think," she said without turning.
+
+"Sorry."
+
+"So," she looked up. "Commander Kaelen. Has a nice ring to it."
+
+"It sounds like a target," Kaelen grunted.
+
+"Everything is a target to you," she teased. She stood up and walked over to him. The wind whipped her hair around her face. "But seriously... we did it. We actually did it."
+
+"The hard part is just starting," Kaelen warned.
+
+"I know," she sighed. "But for tonight... let's just enjoy the win."
+
+She leaned in and kissed him on the cheek. "Get some sleep, Commander. You look like hell."
+
+She slipped away into the shadows.
+
+Kaelen touched his cheek. He looked out at the vast, dark world below. Somewhere out there, the Demon King was waiting.
+
+"Bring it on," Kaelen whispered.
+
 *System Alert: Chapter Completed.*
 *World State Update: Alliance Formed. War Mobilization.*
 *Party Status: Promoted.*

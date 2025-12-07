@@ -40,29 +40,61 @@ A blade of condensed darkness slid between Malion's ribs. He fell, his hand brus
 
 Elfiria of House Solas, High Priestess of the Sun and Princess of Aetheria, was bored.
 
-She sat on the throne of the High Council, listening to Archmage Varen drone on about the fluctuating price of moon-dust imports. The Council Chamber was a masterpiece of crystal and light, floating high above the clouds, but to Elfiria, it felt like a cage.
+She stood on the training grounds of the Sky Guard, a platform of suspended marble that offered a vertigo-inducing view of the clouds below. The wind at this altitude was biting, but Elfiria wore only her ceremonial training armor—light silver plates over white silk.
 
-"...and as such, the tariffs from the Dwarven holds are becoming untenable," Varen said, adjusting his spectacles. "I propose a sanction."
+"Again!" she commanded.
 
-Elfiria sighed. It was a small sound, but in the acoustically perfect chamber, it sounded like a thunderclap.
+Opposite her, three of her best Sky Knights panted heavily. They were armed with practice staves, but they looked like they had been fighting a dragon.
 
-The Council of Twelve stopped. Twelve pairs of ancient eyes turned to her.
+"High Priestess," Captain Valen gasped, leaning on his staff. "We have been at this for two hours. The men are exhausted."
 
-"Is something amiss, High Priestess?" Varen asked, his tone dripping with condescension.
+"The enemy will not care if you are exhausted, Captain," Elfiria said, her voice cool. "The enemy will not give you water breaks. The enemy will kill you."
 
-"Everything is amiss, Varen," Elfiria stood up. Her robes of white silk flowed around her like liquid light. "While we debate tariffs, the world below is burning."
+She spun her own staff, a blur of motion. "Attack me. All of you. At once."
+
+The knights looked at each other, then charged.
+
+Valen went high. The other two flanked low. It was a classic pincer maneuver.
+
+Elfiria didn't move until the last second.
+
+*System Ability: Solar Flare (Minor).*
+
+A burst of light erupted from her body, blinding them for a fraction of a second. In that moment, she moved.
+
+*Thwack. Thwack. Thud.*
+
+She sidestepped Valen's strike, tripping him with the end of her staff. She spun, catching the second knight in the ribs, then vaulted over the third, kicking him in the back of the helmet.
+
+They all hit the ground.
+
+Elfiria landed gracefully, hardly out of breath.
+
+"Too slow," she critiqued. "You rely too much on your eyes. At high altitude, the light plays tricks. You must sense the Aether."
+
+"We do not have your gift, Princess," Valen groaned, picking himself up.
+
+"Then you must train harder," Elfiria tossed her staff to an attendant. "Dismissed. Medics are waiting."
+
+She walked away, her face a mask of calm. But inside, she was screaming.
+
+She felt it. The jagged, infected wound in the fabric of reality to the west. It pulsed with a malice so ancient and so hungry it made her nausea rise. It was a discord in the song of the world.
+
+She entered the Council Chamber.
+
+***
+
+## Part 2: The Council of Silence
+
+The Council of Twelve sat in a semicircle, their robes heavy with gold and gems. They looked like statues, ancient and immovable.
+
+"You are late, High Priestess," Archmage Varen said, adjusting his spectacles. "We were discussing the tariffs on moon-dust."
+
+"The tariffs are irrelevant," Elfiria said, taking her throne. "The world below is burning."
 
 "The Lower World is always burning," Councilor Thalor dismissed, waving a hand. "Humans fight. Orcs raid. It is the nature of short-lived things."
 
 "This is different," Elfiria walked to the edge of the platform. The floor here was transparent crystal, looking down miles to the surface. "Can you not feel it? The Aether is trembling."
-
-She closed her eyes and extended her senses.
-
-*System Ability: Aetheric Sense (Master).*
-*Range: Continental.*
-*Status: Scanning...*
-
-She felt it. A jagged, infected wound in the fabric of reality to the west. It pulsed with a malice so ancient and so hungry it made her nausea rise. It was a discord in the song of the world.
 
 "The Demon King," she whispered.
 
@@ -96,18 +128,56 @@ The room went silent.
 
 ***
 
-## Part 2: The Forest of Whispers
+## Part 3: The Campfire Confession
 
-*Location: Sylvanaria Border*
-*Terrain: Dense Forest*
+*Location: The Whispering Woods*
+*Time: Night*
 
-The journey from Oakhaven to the lifts of Aetheria led through the Whispering Woods. It was a shortcut, but a dangerous one.
+Far below the clouds, Kaelen sat by a small, smokeless fire. The journey through the Whispering Woods had been grueling. The trees here were thick and twisted, blocking out the stars.
 
-Kaelen hacked at a wall of vines with his sword. "I hate this forest," he muttered.
+Lyra was sharpening her daggers, the rhythmic *shhhk-shhhk* sound the only noise in the camp. Drakon was asleep, snoring softly, his massive frame curled up against a log.
 
-"It's scenic," Lyra said, swatting a mosquito the size of a hummingbird. "In a 'get eaten by a plant' kind of way."
+"We're lost, aren't we?" Lyra asked, not looking up.
 
-They had been walking for two days. The adrenaline of the battle had faded, replaced by the dull ache of injuries and the gnawing emptiness of their stomachs. The refugees had been dropped off at a fortified monastery, leaving the trio to continue alone.
+"We're not lost," Kaelen said, checking his map. "We're... taking a scenic route."
+
+"Scenic means lost in mercenary speak," Lyra smirked. She put down her dagger. "Kaelen, about the letter. What does it actually say? You've guarded it like it's your own heart, but you haven't let us read it."
+
+Kaelen hesitated. He pulled the scroll case from his tunic. The wax seal was cracked, but the vellum was intact.
+
+"It's a list," Kaelen said.
+
+"A list of what?"
+
+"Names," Kaelen unrolled it. "Captains. Generals. Ministers. In Eldoria, Aridia, and even Aetheria."
+
+"A hit list?"
+
+"A payroll," Kaelen corrected. "It proves that key figures in all the kingdoms have been accepting gold from an unknown source for years. The 'Shadows' didn't just infiltrate recently. They've been buying our leaders for decades."
+
+Lyra whistled low. "That explains a lot. Why the borders are porous. Why the patrols are always in the wrong place."
+
+"It goes deeper," Kaelen pointed to a symbol at the bottom. A black sun. "This is the mark of the Void Cult. They believe the only way to save the world is to destroy it and start over. They're not just greedy. They're fanatics."
+
+"And we're walking into the lion's den with a piece of paper that says 'everyone is a traitor'," Lyra summarized. "We're going to get killed."
+
+"Probably," Kaelen admitted.
+
+"Good," Lyra grinned. "I like long odds. It makes winning feel better."
+
+"You're crazy."
+
+"I'm bored," she winked. "Now, get some sleep. I'll take first watch. If a tree tries to eat you, I'll scream."
+
+***
+
+## Part 4: The Spider's Web
+
+The next morning, the forest changed. The trees became covered in thick, grey webbing.
+
+"I hate this forest," Kaelen muttered, hacking at a wall of sticky silk.
+
+"It's scenic," Lyra mocked him. "In a 'get eaten by a giant spider' kind of way."
 
 Drakon brought up the rear. He was carrying an entire deer carcass over one shoulder.
 
@@ -193,7 +263,7 @@ The remaining spiders hissed and retreated into the canopy.
 
 ***
 
-## Part 3: The Corrupted Grove
+## Part 5: The Corrupted Grove
 
 They ran until they reached a clearing. In the center stood a massive statue of an elven goddess, covered in moss.
 
@@ -282,7 +352,7 @@ Kaelen lay on the ground, breathing hard.
 
 ***
 
-## Part 4: The Climb
+## Part 6: The Climb
 
 They reached the edge of the woods. Before them stood the cliffs of Aetheria.
 

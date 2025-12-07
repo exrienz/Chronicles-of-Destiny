@@ -9,19 +9,27 @@ The entity known only as the Whispering Shadow floated in a space that defied ge
 
 It watched the border of Eldoria and Aridia. It watched the tension, tight as a bowstring, ready to snap.
 
-"They are so fragile," a voice echoed. It was not spoken, but felt—a vibration in the very fabric of the Void. It was the Master, Azezel, communicating from his prison deep within the earth.
+"They are so fragile," a voice echoed. It was not spoken, but felt—a vibration in the very fabric of the Void. It was the Master, Azezel, communicating from his prison deep within the earth. His voice was the sound of mountains grinding together, of tectonic plates shifting in the deep dark.
 
-"Fragility is useful," the Shadow replied to the unseen master, its form shifting like smoke in a draft. "Fear makes them predictable. They will jump at shadows, assuming they are monsters. And in doing so, they will become the monsters themselves."
+"Fragility is useful," the Shadow replied to the unseen master, its form shifting like smoke in a draft. "Fear makes them predictable. They will jump at shadows, assuming they are monsters. And in doing so, they will become the monsters themselves. I have studied them for eons, Master. Their capacity for self-destruction is their most endearing quality."
 
 The image in the pool shifted. It showed a village. Oakhaven. A peaceful place of apple orchards and simple lives. Smoke was already rising from the chimneys, but soon, it would be rising from the ruins.
 
 "And the catalyst?" the Master asked.
 
-"Prepared," the Shadow hissed. "My agents are in place. The 'First Spark' has been lit. The Eldorian Captains have been replaced by Doppelgangers. The Aridian scouts have been waylaid and butchered, their uniforms stolen. Now, we simply fan the flames until they consume the world."
+"Prepared," the Shadow hissed. "My agents are in place. The 'First Spark' has been lit. The Eldorian Captains have been replaced by Doppelgangers—creatures of clay and hate molded in your image. The Aridian scouts have been waylaid and butchered, their uniforms stolen. Now, we simply fan the flames until they consume the world."
 
-The pool rippled again, showing a lone figure in black armor standing on a hill overlooking Oakhaven. A Shadow Captain. But behind him, in the shadows of the trees, were eyes that burned with a red, infernal light.
+The Shadow waved a hand—or what passed for a hand—over the pool. The image zoomed in. It showed the tavern in Arcanis, now empty. It showed the rooftops where Kaelen had fled.
 
-"Let the dominoes fall," the Master commanded. "I hunger."
+"The Carrier escaped," the Shadow admitted, its voice dropping an octave. "Unexpectedly resilient. He has allied with a Dragon-kin and a Sylvan. An unlikely trio."
+
+"Insignificant," the Master rumbled. "Heroes rise like weeds. They are cut down just as easily. Focus on the harvest. I need souls, Shadow. I need the terror of a million dying breaths to break the final seal."
+
+"It shall be done," the Shadow bowed. "The dominoes are aligned. The finger is poised."
+
+The pool rippled again, showing a lone figure in black armor standing on a hill overlooking Oakhaven. A Shadow Captain. But behind him, in the shadows of the trees, were eyes that burned with a red, infernal light. Thousands of eyes.
+
+"Let them fall," the Master commanded. "I hunger."
 
 ***
 
@@ -43,9 +51,9 @@ Thick, black plumes rose from the thatched roofs, twisting into the grey sky lik
 
 "This is wrong," Lyra whispered beside him.
 
-She was prone, her elbows resting on the mossy rock, peering through her brass spyglass. Her usually vibrant green hair was tucked under a dark hood, and her face was smeared with mud for camouflage. But her eyes—her emerald eyes—were wide with horror.
+She was prone, her elbows resting on the mossy rock, peering through her brass spyglass. Her usually vibrant green hair was tucked under a dark hood, and her face was smeared with mud for camouflage. But her eyes—her emerald eyes—were wide with horror. She lowered the glass, her hands trembling.
 
-"It's war, Lyra," Kaelen said, his voice flat. He was trying to keep the emotion out of it. Emotion was a distraction. Emotion got you killed. "Wars are messy."
+"It's war, Lyra," Kaelen said, his voice flat. He was trying to keep the emotion out of it. Emotion was a distraction. Emotion got you killed. But his stomach churned. "Wars are messy."
 
 "No," she shook her head, adjusting the lens. "I've seen war. I've seen bandits. I've seen raids. This... this is butchery. Look at the banners."
 
@@ -65,7 +73,7 @@ But the soldiers moving through the streets weren't moving with the disciplined 
 
 The dragon-kin was a massive presence, even when he was trying to be stealthy. He was crouching behind a large oak tree, his scales blending surprisingly well with the bark, turning him into a living gargoyle. His tail twitched agitatedly, knocking over a fern.
 
-"I smell it," Drakon growled, his voice a low vibration in his chest that Kaelen felt in his boots. "Sulfur. Rot. And... something old. Something that has not walked this earth since the stories of my grandfather."
+"I smell it," Drakon growled, his voice a low vibration in his chest that Kaelen felt in his boots. "Sulfur. Rot. And... something old. Something that has not walked this earth since the stories of my grandfather. It smells like the deep caves where the sun never touches."
 
 "Demons," Kaelen said the word. It tasted like ash.
 
@@ -99,7 +107,11 @@ They moved down the ridge, sliding through the wet grass until they reached the 
 
 Kaelen moved low, his body almost parallel to the ground. *Stealth Mode: Active.* His footsteps were silent on the ash-covered earth.
 
-He passed a farmhouse. The door was kicked in. Inside, he saw... he looked away. There was nothing he could do for them now.
+He passed a farmhouse. The door was kicked in. Inside, he saw... he looked away. There was nothing he could do for them now. The anger in his chest flared, hot and bright.
+
+*System Alert: Emotional Stability Compromised. Focus Required.*
+
+He took a deep breath. Focus on the mission. Save the living.
 
 He approached the first patrol. Two soldiers. They were laughing. A high, manic giggle that made the hair on Kaelen's arms stand up. They were tossing a helmet back and forth like a ball. A helmet that still contained a head.
 
@@ -223,7 +235,7 @@ The blow caught Kaelen in the chest. It felt like being hit by a battering ram. 
 
 *System Alert: HP -150. Ribs bruised.*
 
-Kaelen gasped for air. He looked up. The Captain was looming over him, raising the sword for a killing blow.
+Kaelen gasped for air. He looked up. The Captain was looming over him, raising the sword for a killing blow. The purple energy was gathering again, this time around the blade.
 
 "Goodbye, hero."
 
@@ -253,11 +265,23 @@ The doors creaked open. The villagers poured out, terrified, clutching children 
 
 The Captain groaned, pulling himself out of the debris. His helmet was gone. His face... it wasn't human. It was grey, with black veins pulsing under the skin. His eyes were pure black.
 
-"You... cannot... stop... the tide," he gargled, black blood spilling from his mouth.
+"You... cannot... stop... the tide," he gargled, black blood spilling from his mouth. He raised his hand, and the ground began to shake. "If I cannot have them... the Beast will."
 
-"Watch me," Kaelen said.
+He slammed his hand into the ground. A shockwave knocked Kaelen off his feet.
 
-He turned and ran, following the refugees.
+"He's summoning something!" Lyra shouted.
+
+"Not today!" Kaelen yelled. He activated his Limit Break. *System Skill: Azure Flash.*
+
+He blurred forward, his swords glowing with intense blue light. He struck the Captain, once, twice, ten times in a second.
+
+The Captain's armor shattered. He fell back, defeated.
+
+"You... are... too... late," the Captain whispered, and dissolved into black sludge.
+
+"Disgusting," Drakon noted, wiping slime off his axe. "Why do they always melt?"
+
+"We need to move," Kaelen said, breathing hard. "He said 'the tide'. That wasn't a metaphor."
 
 ***
 
@@ -392,11 +416,96 @@ They turned and ran into the deep woods, catching up with the villagers.
 
 ***
 
+## Part 5: The Haunted Woods
+
+The Deep Forest was old. Older than the kingdom of Eldoria, older than the First King. The trees here were massive, their roots twisting like petrified snakes, and the canopy was so thick it blotted out the sun, leaving the forest floor in a perpetual twilight.
+
+Kaelen led the group, his eyes scanning the shadows. The refugees were exhausted, stumbling over roots, weeping softly.
+
+"We need to rest," the priest gasped, clutching his side. "The children... they cannot go further."
+
+"If we stop, we die," Kaelen said harshly. "The wolves are tracking us. That light scared them, but hunger will overcome fear eventually."
+
+"He is right," Drakon said, carrying two children on his shoulders. "I can smell them. They are keeping their distance, but they are flanking us."
+
+"Flanking?" Lyra asked, her voice tight. "Wolves don't flank like that."
+
+"Demon wolves do," Kaelen said. "They're herding us."
+
+"Towards what?"
+
+"I don't know. But I don't want to find out."
+
+He checked his map—or rather, the System's projection of it.
+
+*System Alert: Terrain Uncharted. Danger Level: Extreme.*
+*Detected: Ancient Traps. Magic Signatures.*
+
+"Watch your step," Kaelen warned. "This part of the forest... it's cursed. Or protected."
+
+As if to illustrate his point, a vine lashed out from a nearby tree, snapping at a villager's ankle. The man screamed as he was dragged backward.
+
+"Help!"
+
+Kaelen spun, throwing a dagger. It severed the vine. The man scrambled back, pale as a sheet.
+
+"Carnivorous plants," Lyra shuddered. "I hate nature. Give me cobblestones any day."
+
+"It's a defense mechanism," Kaelen realized. "The forest is waking up because of the demonic presence. It's attacking anything that moves."
+
+They moved slower now, fighting the vegetation itself. Thorny bushes seemed to move to block their path. Roots rose up to trip them.
+
+"We need fire," Drakon suggested. "Plants hate fire."
+
+"No," Kaelen said. "Smoke will give away our position. We have to push through."
+
+They reached a ravine. A fallen log was the only bridge.
+
+"Single file!" Kaelen ordered.
+
+He stood at the rear, watching the trees behind them. He saw yellow eyes glowing in the dark.
+
+"They're here," he whispered.
+
+Three wolf-riders emerged from the brush. But they didn't attack. They just watched.
+
+"Why aren't they attacking?" Lyra asked, her crossbow trained on them.
+
+"Because of that," Drakon pointed to the other side of the ravine.
+
+A massive stone golem stood there, covered in moss. It was blocking the path.
+
+"A Forest Guardian," Kaelen said. "Great. Out of the frying pan, into the rock."
+
+The Golem rumbled. "TRESPASSERS."
+
+"We are not enemies!" Kaelen shouted. "We are fleeing the Demons! The ones who burn your trees!"
+
+The Golem tilted its head. "BURNING?"
+
+"Yes!" Kaelen pointed back. "Look at the smoke!"
+
+The Golem looked. It saw the smoke rising above the canopy. It saw the wolf-riders.
+
+"ABOMINATIONS," the Golem roared.
+
+It didn't attack Kaelen. It picked up a boulder and threw it *over* them, at the wolf-riders.
+
+The riders scattered.
+
+"PASS," the Golem commanded. "QUICKLY."
+
+They ran across the log. The Golem stood guard behind them, a living wall of stone against the tide of darkness.
+
+"Friendly rocks," Drakon grinned. "I like this place."
+
+***
+
 ## Interlude: The Campfire
 
-Night fell, wrapping the forest in a cloak of darkness. They found shelter in a system of limestone caves near the river source. The villagers were huddled together, exhausted and traumatized, but alive.
+Night fell properly now, wrapping the forest in a cloak of absolute darkness. They found shelter in a system of limestone caves near the river source, well past the Guardian's territory. The villagers were huddled together, exhausted and traumatized, but alive.
 
-Kaelen sat by the small fire Lyra had built. He was cleaning his swords. The metal was chipped, stained with black blood.
+Kaelen sat by the small fire Lyra had built—shielded deep in the cave so no light escaped. He was cleaning his swords. The metal was chipped, stained with black blood.
 
 "You're hurt," Lyra said softly, sitting beside him. She had a bowl of water and a rag.
 
@@ -412,7 +521,7 @@ Kaelen sat by the small fire Lyra had built. He was cleaning his swords. The met
 
 "Do what?"
 
-"Throw yourself in front of Ogres. Fight armies. We could have just delivered the letter and left. Why care about a village that isn't ours?"
+"Throw yourself in front of Ogres. Fight armies. Negotiate with Golems. We could have just delivered the letter and left. Why care about a village that isn't ours?"
 
 Kaelen looked into the fire. The flames danced in his grey eyes.
 
