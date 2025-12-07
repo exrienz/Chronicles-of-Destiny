@@ -1,31 +1,31 @@
-# Aric (The Sword Saint)
+# Aric (The Sword Saint / The Fallen)
 
-**Role:** Hero / Mentor Figure (Deceased)
+**Role:** Hero / Antagonist (Book 2)
 **Age:** 35
-**Race:** Human
-**Class:** Sword Saint / Paladin
+**Race:** Human (Corrupted)
+**Class:** Sword Saint / Void Knight
 
 ## Appearance
-- **Hair:** Blonde, cropped short.
-- **Eyes:** Blue, piercing.
-- **Build:** Muscular, scarred.
-- **Attire:** Shining plate armor (Broken), red cape.
+- **Hair:** Formerly Blonde, now White.
+- **Eyes:** Solid Black.
+- **Build:** Muscular, scarred, skin cracked like porcelain.
+- **Attire:** Rusted/Blackened Plate Armor.
+- **Weapon:** *Dark Dawnbringer* (Corrupted Holy Sword).
 
 ## Personality
-- The epitome of a hero.
-- Charismatic, inspiring.
-- Hidden depths/sorrow (knows he might not survive).
-- Mentors younger warriors.
+- **Original:** Heroic, inspiring, selfless.
+- **Corrupted:** Nihilistic, cruel, twisted mirror of his former self. Believes the Light is a lie.
 
 ## Abilities
-- **Grand Cross:** Signature sword technique.
-- **Aura of Valor:** Boosts morale of nearby allies.
-- **Master Swordsman:** Unmatched in 1v1.
+- **Grand Cross (Corrupted):** Slashes with void energy.
+- **Supernova (Inverted):** Creates a black hole effect.
+- **Void Step:** Teleportation.
 
 ## Relationships
-- **Kaelen:** Future mentor/idol.
-- **Elfiria:** Sworn protector (temporarily).
+- **Kaelen:** Former mentor, now arch-enemy.
+- **Elfiria:** Target (wants to capture her).
+- **Demon King:** Master.
 
 ## Status
-- **Location:** Valley of Kings (Body left on field).
-- **Condition:** Deceased. Killed by Demon King.
+- **Location:** Outer Lands (Active).
+- **Condition:** Undead / Corrupted Construct.
