@@ -1,15 +1,33 @@
 # Lyra
 
-- **Role:** Main Support / Love Interest
-- **Race:** Elf
-- **Job:** Sniper (Archer path)
-- **Affiliation:** Sylvanaria / Kaelen's Party
-- **Level:** 5 (Chapter 1) -> 6 (Chapter 3)
-- **Appearance:** Tall, athletic, green hair braided back, emerald eyes, pointed ears. Wears practical leather armor that accentuates her agility.
-- **Personality:** Teasing, confident, and flirtatious. She enjoys flustering Kaelen. Beneath the humor, she is deadly serious about protecting her friends.
-- **Combat Style:** Crossbow Specialist. High mobility, trick shots. Uses specialized bolts (Explosive, Piercing).
-- **Inventory:**
-  - Repeater Crossbow
-  - Twin Daggers
-  - Lockpicks
-  - *The Vane Letter* (Currently holding)
+**Role:** Rogue / Assassin / Scout
+**Age:** 22
+**Race:** Half-Elf
+**Class:** Assassin / Sniper
+**Level:** 14
+
+## Appearance
+- **Hair:** Green (Dyed?), short (cut recently).
+- **Eyes:** Emerald green.
+- **Build:** Petite, agile.
+- **Attire:** Desert camouflage, light armor.
+
+## Personality
+- Sarcastic, deflects with humor.
+- Secretly deeply caring.
+- Ruthless in battle.
+- Loyal to a fault.
+
+## Abilities
+- **Sniper Shot:** Critical hit from range.
+- **Shadow Step:** Short range teleport (Rogue skill).
+- **Alchemist:** Crafts bombs/poisons.
+
+## Relationships
+- **Kaelen:** Best friend/Complicated feelings.
+- **Drakon:** "Big guy" (Protective of him).
+- **Elfiria:** Respects her strength now.
+
+## Status
+- **Location:** Outer Lands.
+- **Condition:** Healthy.
