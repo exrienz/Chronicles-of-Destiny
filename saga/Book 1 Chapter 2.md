@@ -436,21 +436,143 @@ He pushed the thought aside. He couldn't afford to doubt himself. Not now.
 
 "Left!" he shouted, directing them towards the cathedral. "We can lose them in the bell tower!"
 
-They leaped across a wide gap. Lyra landed gracefully. Drakon landed heavily, cracking the roof. Kaelen landed last, his boots skidding on loose tiles.
+They leaped across a wide gap. Lyra landed gracefully. Drakon landed heavily, cracking the roof tiles beneath his weight. Kaelen landed last, his boots skidding on loose tiles.
 
 He looked back. The soldiers were climbing the walls. And behind them, moving with supernatural speed, were more shadows.
 
-The night was just beginning. And it was going to be a long one.
+"They're gaining!" Lyra called out, her voice tight with strain.
+
+Kaelen scanned the environment. The rooftops of Arcanis were a maze of chimney stacks, slanted slate, and narrow washing lines. It was a playground for thieves and assassins, but a death trap for the unwary.
+
+*System Analysis: Escape Route Calculation.*
+*Option A: Northern Gate. Probability of Success: 12%.*
+*Option B: Sewers. Probability of Success: 45%.*
+*Option C: High Temple District. Probability of Success: 38%.*
+
+"The Temple District," Kaelen decided aloud. "Higher ground. More cover."
+
+"And more guards," Lyra countered, firing a bolt blindly behind her. A cry of pain answered her.
+
+"Drakon!" Kaelen shouted. "We need a bridge! Can you knock that chimney stack?"
+
+Drakon looked at the massive brick chimney ahead of them, bridging the gap to the next building. "I can do better than knock it! I can throw it!"
+
+The dragon-man charged, his shoulder slamming into the base of the chimney. With a roar that shook the very foundations of the building, the bricks gave way. The chimney toppled, crashing across the alleyway to form a crude, dusty bridge.
+
+"Go!"
+
+They scrambled across the makeshift bridge just as arrows began to pepper the roof they had just left. Kaelen risked a glance downward. The street was swarming with City Watch, but amongst the silver and blue uniforms, he saw figures in black cloaks directing them.
+
+"The corruption goes deep," he muttered. "The Watch is taking orders from the Shadows."
+
+"Focus on running, analyze later!" Lyra grabbed his cloak, pulling him forward.
+
+They reached the other side, but their path was blocked. A figure stood on the peak of the roof, silhouetted against the rising moon. He wore the uniform of a Captain of the Watch, but his eyes glowed with a faint, unnatural violet light.
+
+"Captain Thorne," Kaelen recognized him. A man known for his honor. Or he used to be.
+
+"Surrender, Kaelen," Thorne said, his voice layered with a strange, harmonic distortion. "The Master has need of the letter. And your friends."
+
+"Thorne, listen to me," Kaelen pleaded, drawing his swords. "You're being controlled. Fight it!"
+
+"There is nothing to fight," Thorne smiled, a cruel, twist of lips. "There is only the Void."
+
+He drew a greatsword that pulsed with dark energy.
+
+*System Alert: Elite Enemy Detected.*
+*Name: Captain Thorne (Corrupted).*
+*Level: 12.*
+*Weakness: Unknown.*
+
+"Drakon, Lyra, keep moving!" Kaelen ordered. "I'll hold him off!"
+
+"No!" Lyra shouted. "We don't leave people behind! That's rule number one!"
+
+"Since when do we have rules?" Kaelen snapped, parrying a massive overhead swing from Thorne. The impact jarred his bones.
+
+"Since about five minutes ago!" Lyra retorted. She circled around, looking for an opening.
+
+Thorne was fast. Impossibly fast for a man in full plate armor. He swung the greatsword like a twig, driving Kaelen back towards the edge of the roof.
+
+"The Void hungers," Thorne chanted. "It demands sustenance."
+
+"Feed it this!" Drakon yelled. He picked up a loose gargoyle statue—a heavy stone grotesque—and hurled it.
+
+Thorne didn't even look. He simply raised a hand, and a barrier of violet energy appeared. The gargoyle shattered against it.
+
+"Magic," Drakon spat. "I hate magic."
+
+Kaelen saw an opening. Thorne was focused on Drakon.
+
+"System Skill: Flash Step."
+
+Kaelen vanished, reappearing instantly behind Thorne. He thrust his blue blade towards the Captain's unarmored neck.
+
+*Clang.*
+
+Thorne had blocked it behind his back, without looking. He spun, his elbow catching Kaelen in the chest.
+
+Kaelen flew backwards, sliding across the tiles. He gasped, the wind knocked out of him. Health bar flashed red. *72%.*
+
+"Pathetic," Thorne sneered, advancing. "Is this the best the 'Hero of the Border' can do?"
+
+Lyra fired three bolts in rapid succession. *Ping. Ping. Ping.* They bounced off Thorne's magical aura.
+
+"We can't win this," Kaelen realized. "Not here. Not now."
+
+He looked at the edge of the roof. Below them was the canal that ran through the Temple District. It was a long drop.
+
+"Jump," Kaelen whispered.
+
+"What?" Lyra asked, horrified.
+
+"Into the canal!" Kaelen shouted. "Drakon, grab Lyra!"
+
+"With pleasure!" Drakon scooped up the protesting elf.
+
+"Wait! I can't swim!" Lyra screamed.
+
+"I float!" Drakon assured her.
+
+"Kaelen!" Thorne lunged, his sword wreathed in violet fire.
+
+Kaelen grinned. He sheathed his swords and saluted.
+
+"Catch you later, Captain."
+
+He backflipped off the edge.
+
+Thorne's blade sliced through the empty air where Kaelen had been a fraction of a second before.
+
+The wind rushed past Kaelen. He saw the dark water rushing up. He saw Drakon and Lyra splashing down a few seconds ahead of him.
+
+*Splash.*
+
+The cold water hit him like a hammer. He went under, the darkness swallowing him.
+
+*System Alert: Environment Change detected. Hydro-dynamics engaged.*
+
+He kicked to the surface, gasping for air. Drakon was paddling like a giant dog, Lyra clinging to his back, coughing and cursing in Elvish.
+
+"That," Lyra sputtered, "was the worst plan ever."
+
+"We're alive," Kaelen pointed out, swimming towards them. "And we lost him."
+
+He looked back up at the roof. Captain Thorne stood there, watching them. He didn't follow. He just watched, his violet eyes glowing in the dark.
+
+"For now," Kaelen added quietly.
+
+The current took them, carrying them deeper into the city, towards the looming shadows of the unknown. The night was just beginning. And it was going to be a long one.
 
 **[End of Chapter 2]**
 
 **Character Status:**
-- **Kaelen:** Level 5 Swordsman. Trust in party increasing. Minor burns.
-- **Lyra:** Level 5 Rogue. Reluctant letter carrier. Flustered.
-- **Drakon:** Level 6 Dragon Knight. Morale boosted by combat.
+- **Kaelen:** Level 5 Swordsman. Trust in party increasing. Wet.
+- **Lyra:** Level 5 Rogue. Reluctant letter carrier. Very wet. Angry.
+- **Drakon:** Level 6 Dragon Knight. Morale boosted by combat. Wet dog smell.
 
 **Items Updated:**
-- *The Vane Letter* (Transferred to Lyra)
+- *The Vane Letter* (Transferred to Lyra, hopefully waterproof)
 
 **Next Chapter Preview:**
 *The shadows grow bolder as the city itself becomes a hunting ground. A rooftop chase tests the limits of the trio, and the first spark of war ignites the powder keg of Mythosia.*
