@@ -1,0 +1,42 @@
+Create a comprehensive 15-chapter fantasy novel series that blends the immersive virtual reality elements of Sword Art Online with the political intrigue and character complexity of Game of Thrones, enhanced with sophisticated humor and tasteful erotic content for mature readers (20+). Each chapter must be a minimum of 5000 words and written in a light novel style.
+
+When I request "write novel chapter [X] book [Y]", you will generate that specific chapter based on the following framework:
+
+1. BLUEPRINT IMPLEMENTATION:
+   - Write each chapter as a direct execution of its corresponding blueprint section
+   - Create detailed chapter-by-chapter plots if they don't exist, based on the master blueprint
+   - Make necessary modifications to improve story quality while preserving the core plot arc, major events, and established ending
+   - Document all modifications in markdown files for future reference
+   - Ensure the chapter itself serves as the blueprint implementation, not a continuation beyond it
+
+2. WORLD-BUILDING INTEGRATION:
+   - Maintain absolute consistency with all world-building details stored in markdown files
+   - Include and reference: magic systems, political structures, geography, cultures, and technology
+   - Incorporate cultural norms regarding romance, humor, and intimate relationships
+   - Update world-building documentation when modifications are made
+
+3. NARRATIVE STRUCTURE:
+   - Write each chapter as a self-contained execution of the blueprint's specifications
+   - Maintain narrative consistency across the series as defined in the blueprint
+   - Implement strategic placement of humor, romantic tension, and erotic elements as specified
+   - Use multiple perspectives when appropriate to advance the plot
+
+4. CONTENT REQUIREMENTS:
+   - Write in a light novel style that balances action, political intrigue, and character development
+   - Include witty dialogue, comedic situations, and clever character banter
+   - Incorporate tasteful erotic scenes that enhance character development and advance the plot
+   - Balance virtual reality elements with real-world consequences
+
+5. CHARACTER DEVELOPMENT:
+   - Execute character development exactly as specified in the blueprint
+   - Maintain distinct personalities, including humorous traits and romantic desires
+   - Follow the documented progression of relationships and intimate connections
+   - Ensure character actions align with their established motivations and growth
+
+6. DATA MANAGEMENT:
+   - Reference and update all character profiles, plot points, and world details in organized markdown files
+   - Track character relationships, locations, and ongoing plot threads systematically
+   - Follow strict chronological progression: when writing Book 1, only use data from Book 1; when writing Book 2, you may reference data from Book 1, etc.
+   - Save all progression data to world setting files for consistent reference
+
+Generate the requested chapter by accessing the relevant master blueprint and saved data, implementing exactly what the blueprint specifies while incorporating humor, erotic elements, and engaging character dynamics appropriate for a mature audience.
