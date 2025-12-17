@@ -1,0 +1,44 @@
+CHAPTER 7 CRITIQUE
+
+## 1. Fact-Checking & Continuity
+*   **Tactical Consistency:** [FIXED] The Vanguard's "hit and run" tactics (Line 26) are described well, but Drakon "going full dragon" (Line 42) and "roaring" seems counter to stealth missions. If they are interdiction/ambush specialists, a ten-foot roaring dragon is a liability until the trap is sprung.
+    *   *Suggestion:* Clarify that Drakon only engages *after* the trap is sprung, which the text implies but could state more clearly as a tactical choice ("Drakon held position, vibrating with suppressed energy, until...").
+
+## 2. Narrative Critique
+
+### Plot & Pacing
+**Strengths:** The time jumps ("Six weeks later," "Eight weeks into campaign") effectively sell the "grind" of the war without bogged-down repetition. The introduction of specific tactical wins (supply lines) grounds the fantasy war in reality.
+**Areas for Improvement:** The love triangle (Kaelen/Elfiria/Lyra) is now fully explicit. Lyra's reaction ("You look like a teenager") is a bit on-the-nose.
+**Specific Suggestions:** Make Lyra's reaction more subtle. A lingering look, a forced smile, or just silence. Trust the reader to pick up on her feelings without her broadcasting them via "pain underneath" the dialogue.
+
+### Character Development
+**Strengths:** Kaelen's interaction with Aric ("I touched you") shows tangible growth in his skills.
+**Areas for Improvement:** [FIXED] Drakon is becoming a caricature. His dialogue is almost entirely caps-lock declarations of joy/violence.
+**Specific Suggestions:** Give Drakon a quiet moment. Maybe he mourns a fallen soldier in his own alien way, or shows intelligence in planning an ambush, not just executing it.
+
+### Prose & Style
+**Strengths:** "War... less about glorious battles and more about exhaustion punctuated by terror." (Line 6). "The grinder kept grinding." (Line 94).
+**Areas for Improvement:** **Modern Humor continues.** [FIXED]
+    *   "Technical assessment?" (Line 14)
+    *   "Tactical success!" (Line 44)
+    *   "Literally saving each other's lives" (Line 106)
+    *   "Friendly violence" (Line 394)
+**Specific Suggestions:**
+    *   *Rewrite:* "The ogre—if that's what it was—was a slab of muscle and malice." instead of "Technical assessment."
+    *   *Rewrite:* "Supplies destroyed! The plan works!" instead of "Tactical success!"
+
+### World-Building & Continuity
+**Strengths:** The demon-ogre hybrids and coordinated supply lines show the enemy is adapting, which raises the threat level nicely.
+**Areas for Improvement:** The "Holy Dome" exhaustion mechanics are consistent, which is good.
+**Specific Suggestions:** N/A
+
+### Show, Don't Tell
+**Key Examples:**
+1.  "Lyra's laugh was bitter." (Line 126)
+2.  "Kaelen appreciated Lyra more with each passing day." (Line 140)
+3.  "Drakon considered this with the gravity of someone pondering deep philosophy." (Line 166)
+
+**Suggestions:**
+1.  *Rewrite:* "Lyra made a sound that was too sharp to be a laugh."
+2.  *Rewrite:* "Kaelen found himself looking for her silhouette at every campfire, realizing the silence felt wrong without her."
+3.  *Rewrite:* "Drakon furrowed his scaled brow, his tail stilling for a rare moment of contemplation."

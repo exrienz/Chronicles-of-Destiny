@@ -1,0 +1,45 @@
+CHAPTER 2 CRITIQUE
+
+## 1. Fact-Checking & Continuity
+*   **Location/Geography Confusion:** There is a significant continuity error regarding the party's location.
+    *   In Chapter 1, they leave **Oakhaven** heading for Arcanis.
+    *   In Chapter 2 (Line 40), it says "They reached **Oakhaven's** outskirts the next morning..." and later "Oakhaven's gates were open" (Line 61).
+    *   However, the dialogue implies they have been traveling *away* from Oakhaven for days ("we left Oakhaven four days ago").
+    *   *Correction:* The town they arrive at in Chapter 2 should likely be a different town (e.g., "Riverwood," "Kingsbridge," or a generic "border town"). If they are back at Oakhaven, they have traveled in a circle.
+*   **Timeline:** Kaelen says "We left Oakhaven four days ago" (Line 52), but Horvath says earlier "We'll reach Arcanis tomorrow... if we make good time" (Line 18). Chapter 1 established it as a "three-day journey" (Ch 1, Line 160).
+    *   *Correction:* If it's a three-day journey and they are on day 4, they should be there or late. Adjust the "four days ago" line or the journey duration to match.
+
+## 2. Narrative Critique
+
+### Plot & Pacing
+**Strengths:** The introduction of the war and the refugees raises the stakes effectively. The transition from "bandit trouble" to "existential void threat" is handled well, escalating the danger naturally.
+**Areas for Improvement:** The coincidence of meeting Lyra (a high-competence ally) right before the Void-Corrupted attack feels a bit convenient, though acceptable in this genre.
+**Specific Suggestions:** The "Void-Corrupted" introduction is strong visually. Consider having one of the refugees turn into one, or show the corruption process, to make it more personal/horrifying rather than just "monsters appear."
+
+### Character Development
+**Strengths:** Lyra is a vibrant addition to the cast. Her banter with Kaelen provides good levity.
+**Areas for Improvement:** Lyra falls into the "Competent Female Love Interest/Ally" archetype very heavily (beautiful, sassy, perfect aim, green hair). She risks feeling too perfect.
+**Specific Suggestions:** Give her a flaw or a moment of failure. Maybe she misses a shot, or her "rebellious streak" caused a specific tragedy she's trying to atone for (showing vulnerability beyond just "abandonment issues").
+*   *Dialogue:* "Objectively, beautiful" (Line 98) echoes "objectively, a beautiful morning" from Chapter 1. Watch for repetitive authorial voice phrases.
+
+### Prose & Style
+**Strengths:** The description of the Void-Corrupted ("skin like burned leather mottled with spreading void-black veins") is excellent. The action scenes are punchy.
+**Areas for Improvement:** "The classic signs of displacement" (Line 42) feels a bit dry/modern journalistic.
+**Specific Suggestions:** Describe the sensory details of displacement instead of labeling it.
+*   *Rewrite:* "Carts groaned under the weight of hastily packed lives—furniture, heirlooms, children clutching dolls."
+
+### World-Building & Continuity
+**Strengths:** The distinction between "enhanced" warriors and "Void-Corrupted" is an intriguing mystery.
+**Areas for Improvement:** The reference to "hair-of-the-dog" (Ch 1) and "student loans" (Ch 1) suggests a slightly modern vernacular, which continues here with "classic signs of displacement."
+**Specific Suggestions:** Ensure the narrative voice stays within the high fantasy tone.
+
+### Show, Don't Tell
+**Key Examples:**
+1.  "She was also, objectively, beautiful." (Line 98)
+2.  "The timing made his instincts itch." (Line 52)
+3.  "Kaelen watched her work with professional appreciation." (Line 232)
+
+**Suggestions:**
+1.  *Rewrite:* "Everything about her was sharp—the line of her jaw, the set of her shoulders, the striking emerald of her eyes against the grime of the road."
+2.  *Rewrite:* "Kaelen drummed his fingers on his hilts. The timing felt too precise, like a trap snapping shut."
+3.  *Rewrite:* "She didn't waste a single movement. Draw, loose, kill—a rhythm as steady as a heartbeat."

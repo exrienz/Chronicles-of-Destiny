@@ -1,0 +1,50 @@
+CHAPTER 5 CRITIQUE
+
+## 1. Fact-Checking & Continuity
+*   **Protocol/Security:** The scene where Queen Elfiria sits under a tree and holds hands with Kaelen (a mercenary she met *yesterday*) in full view of "various other Alliance leaders" (Line 36) is highly implausible. Royal protocol and security details exist for a reason. Rumors would start instantly; guards would intervene.
+    *   *Suggestion:* Move this conversation to a more private setting (e.g., she summons him to her tent for a "report," or they meet by chance on the ramparts at night).
+*   **Aasimar Lore:** "Direct descendant of celestial beings" (Line 82). Standard definition, consistent so far.
+
+## 2. Narrative Critique
+
+### Plot & Pacing
+**Strengths:** The training montage is efficient and establishes the skill gap between the Vanguard and Aric. The transition to the Valley of Kings sets the stage for the big battle.
+**Areas for Improvement:** The romance subplot is moving at warp speed. From "strangers" to "holding hands and sharing trauma" in one conversation is too fast and lowers the tension.
+**Specific Suggestions:** Let the intimacy build through shared danger, not just immediate exposition. Have Elfiria value his *opinion* first before she values his *hand*.
+
+### Character Development
+**Strengths:** Aric's teaching style ("not failure—that's education") aligns well with his character. Kaelen's backstory is revealed naturally (mostly).
+**Areas for Improvement:**
+    1.  **Drakon:** He is becoming purely comic relief ("Cunning like... fox!"). He needs a moment of genuine menace or competence to be taken seriously as a warrior prince.
+    2.  **Elfiria:** Her "royal mask" slips too easily. If she's been doing this since seventeen, she should be harder to read.
+**Specific Suggestions:**
+    *   Show Drakon actually being terrifying in training, not just "knocked down."
+    *   Have Elfiria maintain her composure until Kaelen says something that *actually* surprises her, earning the vulnerability.
+
+### Prose & Style
+**Strengths:** "Pain doesn't diminish with time—we just get better at carrying it" (Line 78) is a strong line.
+**Areas for Improvement:** **Anachronisms/Modern Tone.** The dialogue and narration continue to lean heavily into modern "internet speak" or MCU-style quips.
+    *   "Educational violence" (Line 12)
+    *   "With extreme prejudice" (Line 18) - Modern military idiom.
+    *   "Brain temporarily short-circuited" (Line 106) - Electronic metaphor in fantasy.
+    *   "Literal angel-queen" (Line 130)
+    *   "Trademark terrible timing" (Line 124)
+**Specific Suggestions:**
+    *   Remove electronic metaphors ("short-circuited").
+    *   Replace modern idioms ("extreme prejudice") with period-appropriate ones ("With ruthless efficiency").
+
+### World-Building & Continuity
+**Strengths:** The scale of the army (now 80,000) feels appropriate for the stakes. [FIXED]
+**Areas for Improvement:** The lack of cultural friction between the 5 kingdoms is surprising. They all just... get along?
+**Specific Suggestions:** Show some tension between the soldiers of different kingdoms in the mess tent or training grounds.
+
+### Show, Don't Tell
+**Key Examples:**
+1.  "Kaelen feels evaluated... with uncomfortable precision." (Ch 4 repurpose, or similar here: "failed utterly based on Lyra's smirk" Line 28)
+2.  "The praise felt like being knighted." (Line 27)
+3.  "Kaelen's brain temporarily short-circuited." (Line 106)
+
+**Suggestions:**
+1.  *Rewrite:* "Lyra's smirk said she'd seen every twitch of his pride."
+2.  *Rewrite:* "Kaelen stood taller, the ache in his ribs suddenly less sharp."
+3.  *Rewrite:* "Kaelen blinked, certain he had misheard. 'Reasonably?'"

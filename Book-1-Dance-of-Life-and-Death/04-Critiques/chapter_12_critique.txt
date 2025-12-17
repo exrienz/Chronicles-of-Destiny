@@ -1,0 +1,46 @@
+CHAPTER 12 CRITIQUE
+
+## 1. Fact-Checking & Continuity
+*   **The Dome's Vessel:** [FIXED] Elfiria *leaving* the Dome she just powered (Line 138) raises questions. Does the barrier not require her proximity?
+    *   *Clarification:* The text implies she puts her hands on it to open a passage. If she's the "battery," does distance weaken it? Chapter 11 said she had to go to the "Temple of Stars" to activate it, implying location matters. Now she walks out? A brief line explaining why the Dome doesn't collapse without her inside would help.
+    *   *Correction regarding Line 142:* "The Dome recognizes you now." It feels a bit like a biometric scanner. Maybe frame it as "The light knows its own."
+
+## 2. Narrative Critique
+
+### Plot & Pacing
+**Strengths:** The shift from "Siege Defense" to "The Exiled" is a fantastic plot twist. It solves the stagnation of a long siege and gives the heroes agency again. The moral conflict (Safety vs. Compassion) drives the plot organically.
+**Areas for Improvement:** [FIXED] "Zero Casualties" (Line 338). This phrase appears repeatedly (Ch 7, Ch 12).
+**Specific Suggestions:** Stop letting them win perfectly. If they rescue 400 people, lose 5 fighters. War is messy. "Zero casualties" kills tension because the reader learns to expect perfect outcomes.
+
+### Character Development
+**Strengths:** King Aldric's private support (Line 122) adds nuance to what could have been a "Cowardly King" trope.
+**Areas for Improvement:**
+    1.  **Drakon:** "IS MOST GLORIOUS DECISION!" (Line 102). "IS SAME THING, DIFFERENT EMPHASIS!" (Line 106).
+    2.  **Kaelen:** His "I'm coming with you" moment is expected but solid.
+**Specific Suggestions:**
+    *   Refine Drakon. He can be enthusiastic without shouting every line in caps. Use italics or exclamation marks sparingly.
+
+### Prose & Style
+**Strengths:** "It sealed behind them with a sound like reality sighing." (Line 156). "Beauty persisted... despite void taint." (Line 260).
+**Areas for Improvement:** **Modern/Meta Dialogue.** [FIXED]
+    *   "Zero casualties" (Line 338).
+    *   "Same thing, different emphasis" (Line 106).
+    *   "Zero casualties" again.
+**Specific Suggestions:**
+    *   *Rewrite:* "We brought everyone home." instead of "Zero casualties."
+
+### World-Building & Continuity
+**Strengths:** The description of the corrupted land (Line 162) effectively contrasts with the safety they just left.
+**Areas for Improvement:** N/A
+**Specific Suggestions:** N/A
+
+### Show, Don't Tell
+**Key Examples:**
+1.  "The atmosphere was toxic." (Line 4).
+2.  "Kaelen became a leader... through demonstrated competence." (Line 240).
+3.  "They'd become hope made manifest." (Line 346).
+
+**Suggestions:**
+1.  *Rewrite:* "Accusations hung in the air, heavy as smoke."
+2.  *Rewrite:* "Soldiers stopped looking to the captains and started watching Kaelen, mimicking his grip on the sword, his stance, his silence."
+3.  *Rewrite:* "When the refugees looked at the banner of The Exiled, they stopped crying."

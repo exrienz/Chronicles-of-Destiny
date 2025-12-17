@@ -1,0 +1,45 @@
+CHAPTER 8 CRITIQUE
+
+## 1. Fact-Checking & Continuity
+*   **Demon General Count:** Aric kills Noxia and wounds Vex/Malakor. Ensure this tally is consistent in future chapters. Noxia is confirmed dead (Line 166).
+
+## 2. Narrative Critique
+
+### Plot & Pacing
+*   **Army Size:** [FIXED] The inconsistency (15k vs 30k) has been resolved by scaling the Alliance army to 80,000 to match the narrative stakes.
+**Areas for Improvement:** The retreat from the Valley (Line 218) is summarized too quickly ("running nightmare that lasted three days").
+**Specific Suggestions:** Slow down the retreat slightly. Show a specific moment of leadership from Kaelen during the rout, rather than just summarizing it.
+
+### Character Development
+**Strengths:** Kaelen stepping up to lead the council (Line 328) feels earned after Aric's mentorship.
+**Areas for Improvement:**
+    1.  **Drakon's Tone:** [FIXED] His dialogue during the massacre ("This is less excellent than previous battles!") is tonally jarring. It turns a horrific defeat into a joke.
+    2.  **Elfiria/Kaelen:** [FIXED] Sleeping in the same bed (Line 380), even platonically, completely breaks believable royal protocol, especially in a military camp where appearances matter for morale.
+**Specific Suggestions:**
+    *   Have Drakon be silent or furiously angry during the defeat, showing he understands the gravity of loss.
+    *   Have Kaelen sleep on the floor/chair in her tent as a guard, which achieves the same intimacy ("I won't leave you alone") without the impropriety.
+
+### Prose & Style
+**Strengths:** "Beautiful in the way that natural disasters are beautiful" (Line 4). "Morale shattered like glass" (Line 178).
+**Areas for Improvement:** **Modern Colloquialisms.** [FIXED]
+    *   "Medically concerning" (Line 26).
+    *   "Presence like reality taking a sick day" (Line 116).
+    *   "Less excellent" (Line 88).
+**Specific Suggestions:**
+    *   *Rewrite:* "A presence that made reality itself recoil."
+
+### World-Building & Continuity
+**Strengths:** The use of "Void Rifts" anchored by stones gives a clear mechanic for the battle.
+**Areas for Improvement:** N/A
+**Specific Suggestions:** N/A
+
+### Show, Don't Tell
+**Key Examples:**
+1.  "The mood was apocalyptic." (Line 312)
+2.  "Chaos erupted." (Line 70)
+3.  "Kaelen feels something break inside him." (Line 184)
+
+**Suggestions:**
+1.  *Rewrite:* "Silence hung heavy in the chamber, broken only by the scratching of quill on parchment as casualties were listed."
+2.  *Rewrite:* "Lines buckled as demons surged from the earth, swords meeting claws in a confused meelee."
+3.  *Rewrite:* "The scream died in his throat, replaced by a cold, sharp clarity."

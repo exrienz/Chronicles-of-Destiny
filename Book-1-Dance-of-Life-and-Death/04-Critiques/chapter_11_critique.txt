@@ -1,0 +1,47 @@
+CHAPTER 11 CRITIQUE
+
+## 1. Fact-Checking & Continuity
+*   **Magic System Logic:** [FIXED] The Holy Dome barrier "recognized Alliance citizenship" (Line 366).
+    *   *Critique:* How does magic know "citizenship"? Citizenship is a legal construct, not a biological or magical one. Does it check paperwork?
+    *   *Suggestion:* Change this to something tangible. Maybe it protects anyone *inside the borders* at the moment of activation, or anyone who has sworn an oath to the Alliance gods. But blocking refugees because their papers aren't in order feels like a bureaucratic nightmare for a divine artifact.
+*   **Grimm's Presence:** Confirms Grimm is part of the command structure now. This relies on the Chapter 9 fix (him arriving with refugees) being implemented.
+
+## 2. Narrative Critique
+
+### Plot & Pacing
+**Strengths:** The moral dilemma (The Trolley Problem of Kingdoms) is excellent. It gives emotional weight to the victory. The "30 minute hold" sequence is classic tension building.
+**Areas for Improvement:** [FIXED] The capture of General Xylos (Line 334) feels unearned. He was beating Kaelen, then took an arrow, then Drakon wrestled him off-screen?
+**Specific Suggestions:** Show the capture. Don't let a major villain defeat happen entirely in the background while Kaelen is fighting mooks.
+
+### Character Development
+**Strengths:** Elfiria's "star-gazing" callback in Ch 9 pays off here with the "Temple of Stars" setting.
+**Areas for Improvement:**
+    1.  **Drakon's Tone:** [FIXED] "IS PERFECT SUICIDE MISSION! I AM VERY EXCITE!" (Line 136). The "Borat-voice" dragon needs to evolve. He should be terrified but brave, not manic.
+    2.  **Kaelen:** His "I'll see you on the other side" confidence (Line 116) shows good growth from his initial cynicism.
+**Specific Suggestions:**
+    *   Have Drakon say: "This is a good death. Better than dying of old age in a cave." Give him dignity.
+
+### Prose & Style
+**Strengths:** "Wave of radiance spread across the land like sunrise accelerated" (Line 312).
+**Areas for Improvement:** **Modern Colloquialisms.**
+    *   "Medically concerning" (Line 138).
+    *   "Little busy here!" (Line 202) -> Repetitive from previous chapters.
+    *   "Same thing, different emphasis!" (Line 150).
+**Specific Suggestions:**
+    *   *Rewrite:* "Your disregard for your own life is troubling."
+
+### World-Building & Continuity
+**Strengths:** The Temple of Stars description is vivid.
+**Areas for Improvement:** The "Citizenship" barrier issue mentioned above.
+**Specific Suggestions:** Make the barrier geographical. "The barrier followed the ancient ley lines of the five kingdoms." The refugees are stuck outside because they physically couldn't cross the border in time, not because the magic rejected their ID cards.
+
+### Show, Don't Tell
+**Key Examples:**
+1.  "Arguments went in circles." (Line 76 - Repetitive from Ch 10).
+2.  "Kaelen watched the council tear itself apart." (Line 48).
+3.  "It was the most horrible thing he'd ever witnessed." (Line 376).
+
+**Suggestions:**
+1.  *Rewrite:* "Voices grew hoarse as night fell, the same accusations hurled back and forth across the map table."
+2.  *Rewrite:* "Fists pounded the table. Spittle flew with shouted insults."
+3.  *Rewrite:* "Kaelen forced himself to watch, searing the image into his mind. He owed them that much."

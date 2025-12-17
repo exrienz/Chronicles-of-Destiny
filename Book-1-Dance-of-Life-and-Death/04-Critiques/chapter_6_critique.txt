@@ -1,0 +1,43 @@
+CHAPTER 6 CRITIQUE
+
+## 1. Fact-Checking & Continuity
+*   **Army Size:** [FIXED] Army numbers updated to 80,000 (Alliance) vs 200,000 (Demons) to better reflect Epic Fantasy scale.
+*   **Repetitive Dialogue:** Both Lyra (Chapter 2, Line 258) and Drakon (Chapter 6, Line 87) use the phrase "I contain multitudes." Unless this is a specific cultural idiom in your world, it reads as the author repeating a favorite phrase.
+*   **Healing Mechanics:** [FIXED] Elfiria heals Kaelen "properly" (Line 382). Does this fatigue her? She was already "looking exhausted" (Line 350) from using the Holy Dome. Healing deep wounds usually takes a toll in fantasy magic systems.
+    *   *Suggestion:* Show the cost. Maybe she stumbles or pales further, emphasizing her sacrifice for him.
+
+## 2. Narrative Critique
+
+### Plot & Pacing
+**Strengths:** The battle is structured well—anticipation, initial clash, escalation (champion), lull/victory. The "Test" reveal effectively undercuts the victory, keeping tension high.
+**Areas for Improvement:** [FIXED] The romance scene relies on the "interrupted kiss" trope (Line 398). It feels manufactured to delay resolution.
+**Specific Suggestions:** Instead of a near-kiss interrupted by a runner, have the *intimacy* be the focus. The healing touch, the shared look, the vulnerability. They don't need to try to kiss for the scene to be romantic. The interruption can still happen, but it interrupts a moment of connection rather than a physical act.
+
+### Character Development
+**Strengths:** Drakon’s logic ("Stupid people die first") gives him depth beyond "loud bruiser." Kaelen losing control of his power (Line 266) establishes a specific weakness/danger for him to overcome.
+**Areas for Improvement:**
+    1.  **Drakon's Eating Habits:** Him eating a demon (Line 214) borders on slapstick.
+    2.  **Lyra's Meta-Commentary:** "That’s the most depressing thing you’ve ever said..." (Line 80). She functions almost entirely as a commentator on Kaelen's mood. Give her her own internal state beyond "scared but hiding it."
+
+### Prose & Style
+**Strengths:** "Dawn came... like a executioner" (Line 4). "The cost was written in blood and bodies" (Line 296).
+**Areas for Improvement:** **Battle Banter.** [FIXED] The dialogue during combat ("Little busy here!", "This is excellent!") feels very modern action-movie. It undermines the horror of the Void-Corrupted.
+**Specific Suggestions:**
+    *   Reduce the mid-battle quips. Let the fighting be desperate and messy.
+    *   *Rewrite:* Instead of "LITTLE BUSY HERE!", have her scream in effort or pain as she fights.
+
+### World-Building & Continuity
+**Strengths:** The description of the demon army ("sea of claws and malice") is effective.
+**Areas for Improvement:** The "Holy Dome" usage. Is it a held artifact? Ch 5 called Elfiria the "vessel for the Holy Dome." Ch 6 says "Holy Dome artifact glowing in her hands" (Line 240).
+**Specific Suggestions:** Clarify: Is the Dome a *place* (barrier), a *person* (Elfiria), or an *item* she holds? The terminology is slightly slippery.
+
+### Show, Don't Tell
+**Key Examples:**
+1.  "Kaelen's training took over." (Line 152)
+2.  "Lyra looked horrified." (Line 216)
+3.  "Elfiria turned back to Kaelen, frustration clear in her expression." (Line 404)
+
+**Suggestions:**
+1.  *Rewrite:* "Muscle memory moved his arm before a conscious thought formed."
+2.  *Rewrite:* "Lyra gagged, turning her face away from the gruesome feast."
+3.  *Rewrite:* "Elfiria closed her eyes for a heartbeat, her jaw tightening, before turning back to him."

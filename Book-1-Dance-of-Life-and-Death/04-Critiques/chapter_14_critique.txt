@@ -1,0 +1,47 @@
+CHAPTER 14 CRITIQUE
+
+## 1. Fact-Checking & Continuity
+*   **Magical Consistency:** [FIXED] Line 246 states Elfiria "unleashed the Holy Dome's full power" while in the canyon.
+    *   *Critique:* In Chapter 11, the "Full Power" was the specific barrier around the kingdoms, activated at a specific temple. If she can just "unleash" it anywhere from the artifact, why is the barrier fixed?
+    *   *Suggestion:* Change phrasing to "Unleashed the artifact's unchecked energy." Distinguish it from "The Dome" (which is the barrier).
+*   **Zero Casualties:** Line 282. "Zero casualties."
+    *   *Critique:* This is the third or fourth major battle with "Zero casualties." It makes the demons look incompetent. They are fighting 80 demons + 80 reinforcements = 160 demons vs 50 fighters. The demons should have killed at least *one* person.
+
+## 2. Narrative Critique
+
+### Plot & Pacing
+**Strengths:** Elfiria's death is the emotional anchor of the book. It is handled well—not instant, allowing for good-byes, and focused on her legacy.
+**Areas for Improvement:** The repetitive mission structure. Scout report -> "It's a trap" -> "We go anyway" -> "Zero casualties."
+**Specific Suggestions:** Vary the mission. Maybe they get ambushed *en route*. Maybe they fail to save everyone. Maybe they have to retreat without the refugees.
+
+### Character Development
+**Strengths:** Drakon at the deathbed (Line 328) effectively drops the persona to show respect. "YOU ARE VERY BRAVE" works better here because it's sincere.
+**Areas for Improvement:**
+    1.  **Kaelen's Grief:** [FIXED] He recovers very quickly (Two weeks later, 'functioning'). While Lyra calls it out (Line 446), showing him failing during a mission due to grief would be more powerful than just "not sleeping."
+**Specific Suggestions:**
+    *   Have Kaelen hesitate in battle, almost getting hit, because he's distracted by grief.
+
+### Prose & Style
+**Strengths:** "Structure of darkness and fear" (Line 216). "Sunrise painted the sky in golds and ambers" (Line 490).
+**Areas for Improvement:** **Modern Phrases.** [FIXED]
+    *   "Recommendations?" (Line 436).
+    *   "Approved." (Line 440) -> Very military-industrial.
+    *   "Zero casualties" (Line 282).
+**Specific Suggestions:**
+    *   *Rewrite:* "What is your counsel?" instead of "Recommendations?"
+
+### World-Building & Continuity
+**Strengths:** The garden growing over the grave (Line 408) is a nice touch of hope.
+**Areas for Improvement:** N/A
+**Specific Suggestions:** N/A
+
+### Show, Don't Tell
+**Key Examples:**
+1.  "The morning banter was routine now." (Line 48).
+2.  "The plan was working." (Line 270).
+3.  "Kaelen began to heal." (Line 468).
+
+**Suggestions:**
+1.  *Rewrite:* "They fell into the rhythm of insults and laughter easily, worn smooth like river stones."
+2.  *Rewrite:* "The trap snapped shut, but they were already gone."
+3.  *Rewrite:* "The crushing weight on his chest lightened, just enough to breathe."

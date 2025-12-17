@@ -1,0 +1,50 @@
+CHAPTER 9 CRITIQUE
+
+## 1. Fact-Checking & Continuity
+*   **Elder Grimm's Location:** CRITICAL ERROR.
+    *   Line 56: "Elder Grimm of Kharaz'Mar... barely containing rage" speaks at the memorial service inside Arcanis.
+    *   Line 386: Gorim is shocked to see Grimm arriving with refugees at the gate weeks later ("Grimm? You're alive? I thought—we heard Kharaz'Mar fell completely!").
+    *   *Correction:* [FIXED] Remove Grimm from the memorial scene. Replace him with a generic dwarven representative or have him be "assumed dead" until his arrival at the gate.
+*   **Siege Timeline:** The siege begins "a week later" (Line 394) after the refugees arrive. Just tracking this for Chapter 10.
+
+## 2. Narrative Critique
+
+### Plot & Pacing
+**Strengths:** The memorial service (Line 48) provides necessary downtime to process Aric's death. The refugee crisis (Line 346) introduces a new type of conflict (logistics/morality vs. purely military).
+**Areas for Improvement:** The Council scene regarding refugees (Line 350) feels a bit straw-man. The opposition ("We barely have supplies") folds very quickly to a moral argument ("It's right"). In reality, logistics don't yield to morality.
+**Specific Suggestions:** Make the decision harder. Maybe they have to cut rations immediately, causing unrest, or turn away *some* to save *most*. Kaelen saying "I don't know" (Line 368) is honest, but the solution ("everyone in") should have immediate, visible consequences.
+
+### Character Development
+**Strengths:** Drakon and Lyra's conversation (Line 228) is excellent. It deepens their friendship and gives Lyra's unrequited love a respectful outlet. Drakon is surprisingly wise here.
+**Areas for Improvement:**
+    1.  **Drakon's "Counter-Offer":** (Line 316) yelling over the parapet ("WE MAYBE DO NOT KILL YOU VERY PAINFULLY") borders on parody villain/hero interactions. It undercuts the menace of the Demon King's messenger.
+    2.  **Kaelen/Elfiria:** [FIXED] The love confession (Line 178) is very direct. "I'm falling in love with you." It fits the "we might die tomorrow" urgency, but perhaps show them struggling with it more before saying it.
+**Specific Suggestions:**
+    *   Tone down the "Counter-offer." Maybe Drakon just throws a spear or laughs.
+    *   Let the love confession be physically intimate first (the kiss) and verbally confirmed later, or vice versa, to let it breathe.
+
+### Prose & Style
+**Strengths:** "Smoke of emotional catharsis" (Line 90). "Constellation of remembrance" (Line 80).
+**Areas for Improvement:** **Modern Phrases.** [FIXED]
+    *   "Amateur astronomer queen" (Line 148).
+    *   "Literally everything" (Line 152).
+    *   "Angel with a migraine" (Line 184).
+    *   "Inappropriate relationships with royalty" (Line 204).
+**Specific Suggestions:**
+    *   *Rewrite:* "A queen who reads the stars."
+    *   *Rewrite:* "Angel bearing a heavy burden."
+
+### World-Building & Continuity
+**Strengths:** The distinction between "Alliance kingdoms" and "fallen kingdoms" (Line 354) adds political depth.
+**Areas for Improvement:** N/A
+**Specific Suggestions:** N/A
+
+### Show, Don't Tell
+**Key Examples:**
+1.  "The mood was apocalyptic." (Ch 8/9 overlap - still applies).
+2.  "Kaelen's heart did complicated acrobatics." (Line 180)
+3.  "Lyra felt her heart break cleanly in two." (Line 214)
+
+**Suggestions:**
+1.  *Rewrite:* "Kaelen felt his pulse hammer against his ribs."
+2.  *Rewrite:* "Lyra looked away, the joy in their faces cutting deeper than any demon blade."

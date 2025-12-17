@@ -1,0 +1,47 @@
+CHAPTER 10 CRITIQUE
+
+## 1. Fact-Checking & Continuity
+*   **Romance Timeline:** [FIXED] Line 282 states, "It wasn't their first time, but it felt different."
+    *   *Error:* In Chapter 9, they kissed (Line 190) and later "lay down... fully clothed" with "no passion" (Chapter 8, Line 378). Unless a sex scene occurred off-screen between Chapter 9 and 10, this contradicts the established "slow burn" narrative.
+*   **Repetitive Phrasing:** "Presence like reality taking a sick day" (Line 150) is used almost verbatim in Chapter 8 (Line 116).
+    *   *Suggestion:* Change one instance. "Warpped reality around her like a shroud" or "Made the world feel thin and brittle."
+
+## 2. Narrative Critique
+
+### Plot & Pacing
+**Strengths:** The psychological toll of the siege ("Soldiers falling asleep at their posts," Line 68) is depicted well. The raid provides a necessary active beat in a passive siege story.
+**Areas for Improvement:** [FIXED] Malakor's dialogue (Line 160) ("Delightfully audacious!", "Please try to entertain me!") is very villain-of-the-week. It lacks the gravitas of an ancient void entity.
+**Specific Suggestions:** Make Malakor colder. Less "Game Show Host" and more "Bored God."
+
+### Character Development
+**Strengths:** Elfiria's choice ("spending myself wisely," Line 272) is a strong heroic beat.
+**Areas for Improvement:**
+    1.  **Drakon:** His dialogue is static. "IS LIKE SHOOTING PRACTICE!" (Line 22) during a desperate siege feels disconnected from the stakes.
+    2.  **Kaelen:** "I'd choose you alive. Selfish, but true." (Line 302). Good honesty, fits his character.
+**Specific Suggestions:**
+    *   Give Drakon moments of silence or grim determination to balance the yelling.
+
+### Prose & Style
+**Strengths:** "Grim calculus he'd learned to make without thinking too hard about it" (Line 42).
+**Areas for Improvement:** **Modern Slang.** [FIXED]
+    *   "Reality taking a sick day" (Line 150).
+    *   "Excellent multi-tasker" (Line 40).
+    *   "Zero casualties—a miracle by any standard" (Line 136) -> "Zero casualties" sounds like a report, not prose.
+**Specific Suggestions:**
+    *   *Rewrite:* "We lost no one." instead of "Zero casualties."
+
+### World-Building & Continuity
+**Strengths:** The Void Burns requiring heat to heal (Line 218) is a nice biological detail for dragons.
+**Areas for Improvement:** N/A
+**Specific Suggestions:** N/A
+
+### Show, Don't Tell
+**Key Examples:**
+1.  "It was psychological warfare." (Line 66)
+2.  "Arguments went in circles." (Line 76)
+3.  "Kaelen watched her make these impossible decisions." (Line 266)
+
+**Suggestions:**
+1.  *Rewrite:* "Sleep became the enemy, denied by horns and screams at irregular intervals until sanity frayed."
+2.  *Rewrite:* "The same points were raised, debated, and discarded until the candles burned low."
+3.  *Rewrite:* "She signed the ration reduction order with a steady hand, though he saw her tremble once the pen was down."

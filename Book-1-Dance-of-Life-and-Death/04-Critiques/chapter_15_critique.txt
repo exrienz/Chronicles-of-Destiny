@@ -1,0 +1,49 @@
+CHAPTER 15 CRITIQUE
+
+## 1. Fact-Checking & Continuity
+*   **Zero Casualties:** Line 104: "Zero casualties, complete success."
+    *   *Critique:* This is the final nail in the coffin for tension. If they can rescue 800 people from demon territory with *zero* losses, the demons are not a threat.
+    *   *Suggestion:* Please, for the love of the genre, kill some unnamed redshirts. "We lost twelve good fighters today" makes the victory *earned*.
+*   **Logistics:** The jump from 60 to 1,500 fighters and 40,000 refugees (Line 32) is huge.
+    *   *Critique:* Feeding 40,000 people in a "corrupted land" (Ch 12 description) is a logistical nightmare. Line 34 mentions "successful harvests," but growing food in corrupted soil?
+    *   *Suggestion:* [FIXED] Mention *purifying* the soil explicitly using residual holy water or dwarven tech. Explain *how* they feed a small city.
+
+## 2. Narrative Critique
+
+### Plot & Pacing
+**Strengths:** The ending is strong. It establishes a new status quo (The Exiled) and a clear future threat (Demon King). The transition from "Survival" to "Winning" feels earned over the time jump.
+**Areas for Improvement:** [FIXED] The Demon King's messenger scene (Line 476). It's a bit cliché ("Join me and I'll save you").
+**Specific Suggestions:** Make the offer more tempting. Not just "save millions," but maybe "I can bring Elfiria back." That would shake Kaelen more than a generic "end the war" offer.
+
+### Character Development
+**Strengths:** Kaelen's acceptance of his role is complete. "I'm finally alive" (Line 346).
+**Areas for Improvement:**
+    1.  **Drakon:** [FIXED] "IS VERY GOOD AT DRAMATIC AERIAL RESCUES!" (Line 18). "IS VERY OMINOUS!" (Line 498).
+    2.  **Lyra:** Her closure ("No regrets," Line 352) is good, though her "I loved you" admission feels a bit tacked on if they haven't had a moment about it since Ch 9.
+**Specific Suggestions:**
+    *   Give Drakon a moment of quiet reflection at the end. "The stars are bright tonight, Sword-Brother." No caps. Show he has changed too.
+
+### Prose & Style
+**Strengths:** "Dance continued. And every step mattered." (Line 570) - Excellent closing line.
+**Areas for Improvement:** **Modern Phrases.**
+    *   "Recommendations?" (Line 114).
+    *   "Zero casualties" (Line 104).
+    *   "Psychological warfare" (Line 500).
+**Specific Suggestions:**
+    *   *Rewrite:* "He seeks to poison our minds with doubt." instead of "Psychological warfare."
+
+### World-Building & Continuity
+**Strengths:** The resistance network description is believable (mostly).
+**Areas for Improvement:** The logistics of the food supply in corrupted lands.
+**Specific Suggestions:** Add a line about "Purified greenhouses" or "Trade with the deep dwarves."
+
+### Show, Don't Tell
+**Key Examples:**
+1.  "The casual banter was routine now." (Line 28).
+2.  "It was a classic villain move." (Line 208).
+3.  "Kaelen's mind raced." (Line 216).
+
+**Suggestions:**
+1.  *Rewrite:* "The insults flew as easily as arrows, sharp but friendly."
+2.  *Rewrite:* "Malakor played the crowd like a bard with a lute, plucking strings of fear."
+3.  *Rewrite:* "Options flashed and died in Kaelen's mind, each ending in blood."
