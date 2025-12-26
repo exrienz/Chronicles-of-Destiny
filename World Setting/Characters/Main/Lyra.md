@@ -14,11 +14,11 @@
 
 ## Physical Appearance
 
-- **Hair:** Green, long braid
-- **Eyes:** Emerald green
+- **Hair:** Red (described as fiery), long braid
+- **Eyes:** Green (emerald/forest green), with freckles on her face
 - **Build:** Athletic, agile
 - **Height:** Tall for female elf
-- **Attire:** Practical leather armor designed for mobility and stealth
+- **Attire:** Practical ranger gear/leather armor designed for mobility and stealth; often wears a hooded cloak
 - **Weapon:** Enchanted longbow (Longbow of Seeking); proficient with knives for close combat
 
 ## Personality
@@ -113,7 +113,7 @@
 - **Chapter 11-12:** Key fighter during Arcanis siege; continues supporting team despite personal feelings
 - **Chapter 13:** Battles during Holy Dome activation; protects Elfiria
 - **Chapter 14:** Defies Alliance orders with Kaelen and others; co-founds The Exiled; argues passionately for helping her exiled people; witnesses Elfiria's death
-- **Chapter 15:** Serves as second-in-command and tactical coordinator for The Exiled; has found peace and purpose; Trinity remains intact and legendary
+- **Chapter 15:** Serves as second-in-command and tactical coordinator for The Exiled; has found peace and purpose (resolves romantic feelings for Kaelen into deep friendship); Trinity remains intact and legendary
 
 ## Character Arc (Book 1)
 

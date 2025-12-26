@@ -16,8 +16,9 @@
 ## Physical Appearance
 
 - **Height:** 8+ feet tall
-- **Armor:** Ebon (black) armor with unnatural properties
+- **Armor:** Ebon (black) armor with unnatural properties, black iron
 - **Eyes:** Burning red
+- **Weapon:** Flaming sword/Shadow Blade
 - **Aura:** Radiates despair and oppressive energy
 - **Presence:** Overwhelming malevolent power
 

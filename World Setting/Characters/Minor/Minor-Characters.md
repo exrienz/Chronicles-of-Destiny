@@ -108,6 +108,10 @@ This file documents named minor characters who appear in Book 1 but have limited
 - **Experience:** 30-year military veteran
 - **First Appearance:** Book 1, Chapter 3
 
+### Description
+- **Condition (Ch 3):** Broken in body and spirit, crawling away from the battlefield
+- **Traits:** Survivor, traumatized by the demon's return
+
 ### Story Role
 - Commanded forces at Aridia/Eldoria border
 - Witnessed Demon King's resurrection ritual firsthand
@@ -152,6 +156,23 @@ This file documents named minor characters who appear in Book 1 but have limited
 - Treated wounded throughout campaign
 - Some joined The Exiled
 - Provide medical support
+
+---
+
+## Mercenary Captain
+
+**Category:** Minor Character - Exiled Fighter
+**Status:** Alive (Joined The Exiled)
+
+### Basic Information
+- **Role:** Leader of a mercenary band
+- **First Appearance:** Book 1, Chapter 12 (Flashback/Montage)
+
+### Story Role
+- Initially hostile to The Exiled
+- Challenged Kaelen to single combat
+- Defeated in 10 seconds
+- Joined The Exiled with his men, becoming loyal fighters
 
 ---
 

@@ -17,7 +17,8 @@
 - **Beauty:** Beautiful in a poisonous, dangerous way
 - **Form:** Humanoid but distinctly not human
 - **Skin:** Polished obsidian
-- **Eyes:** Hold light of dying stars
+- **Eyes:** Burning with the cold blue of dying stars
+- **Voice:** Like tectonic plates grinding together
 - **Aura:** Radiates power and corruption
 - **Presence:** Reality seems to bend around him
 
@@ -69,8 +70,9 @@
 
 ### Personal Interest
 - **Kaelen:** Personally interested in corrupting him
-- Sends personal message to Kaelen at end of Book 1
-- Sees potential in Kaelen as either threat or tool
+- Sends personal message to Kaelen at end of Book 1 (Chapter 15)
+- Sees potential in Kaelen as either threat or tool; wants him as a champion
+- Plans to "poison his hope" in Book 2
 
 ## Major Events (Book 1)
 
