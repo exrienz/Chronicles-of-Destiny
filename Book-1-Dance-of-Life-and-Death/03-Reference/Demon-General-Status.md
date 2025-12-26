@@ -1,82 +1,130 @@
-# Demon General Status Tracker - Book 1
+# Demon General Status - Book 1
 
-## The Seven Demon Generals
+> Accurate to actual chapter content - December 2024
 
-### 1. **Noxia** (Shadow/Assassination Specialist)
-- **Status**: DECEASED (Chapter 8)
-- **Killed By**: Aric (Sword Saint)
-- **Location**: Valley of Kings battlefield
-- **Notes**: One of two Generals killed during Aric's last stand
+---
 
-### 2. **Vex** (Void Mage)
-- **Status**: SEVERELY WOUNDED (Chapter 8)
-- **Wounded By**: Aric (Sword Saint)
-- **Location**: Valley of Kings battlefield
-- **Current Status**: Survived but heavily injured, likely recovering
-- **Notes**: Wounded during Aric's last stand alongside Noxia's death
+## THE SEVEN DEMON GENERALS
 
-### 3. **Malakor** (Siege Commander - Female)
-- **Status**: ACTIVE
-- **Primary Role**: Siege warfare, psychological warfare
+### 1. Malakor (Herald of Despair) - FEMALE
+- **Status**: ALIVE & ACTIVE
+- **Description**: 10 feet tall, armored nightmare, void-corrupted bone crown
+- **Abilities**: Shadow blade, despair aura, tactical genius, psychological warfare
+- **Role**: Lead tactician; Siege Commander
 - **Major Appearances**:
-  - Chapter 10: Siege of Arcanis
-  - Chapter 15: Message delivery to Kaelen
-- **Notes**: Referred to with she/her pronouns, master tactician
+  - Chapter 8: Valley of Kings (helped kill Aric)
+  - Chapter 10: Led siege assaults on Arcanis
+  - Chapter 15: Personally ambushed Kaelen's strike team
+- **Notable**: Primary antagonist hunting Kaelen; delivered psychological warfare
+- **Threat Level**: HIGHEST - actively hunting The Exiled
 
-### 4. **Xylos** (Temple Guardian/Ambush Specialist)
-- **Status**: CAPTURED (Chapter 11)
-- **Captured By**: The Vanguard during Temple of Stars ambush
-- **Location**: Held by Alliance/The Exiled
-- **Notes**: First Demon General to be captured alive, significant intelligence asset
+---
 
-### 5. **Dravos** (Combat Specialist)
-- **Status**: ACTIVE
-- **Primary Role**: Direct combat, front-line commander
+### 2. Dravos (Herald of War)
+- **Status**: ALIVE & ACTIVE
+- **Description**: Giant, armor fused to skin, wields tombstone-sized claymore
+- **Abilities**: Overwhelming physical force, caught Aric's "Final Horizon" strike
+- **Role**: Front-line combat commander
 - **Major Appearances**:
-  - Chapter 13: Assault on Ironhold
-  - Dueled Kaelen (drew blood from Kaelen but was also wounded)
-- **Notes**: Powerful combatant, references Malakor killing Aric
+  - Chapter 8: Caught Aric's final attack, delivered killing blow
+  - Chapter 13: Led Ironhold assault, killed Thane Borin, dueled Kaelen
+  - Chapter 15: Part of Malakor's ambush
+- **Notable**: Killed Aric with final claymore thrust; respects strong opponents
+- **Threat Level**: HIGH - extremely dangerous in direct combat
 
-### 6. **[Name TBD]** (Fifth General)
-- **Status**: ACTIVE
-- **Major Appearances**: Chapter 9 (unnamed)
-- **Notes**: One of the generals not present during Aric's last stand
+---
 
-### 7. **[Name TBD]** (Sixth General)
-- **Status**: ACTIVE
-- **Major Appearances**: Mentioned but not directly encountered in Book 1
-- **Notes**: Likely commanding other fronts or held in reserve
+### 3. Xylos (Herald of Pain/Suffering)
+- **Status**: CAPTURED
+- **Abilities**: Psychic screams that shatter minds (killed 50 soldiers with one scream)
+- **Role**: Psychological warfare specialist
+- **Major Appearances**:
+  - Chapter 8: Unleashed psychic attack at Valley of Kings; cut in half by Aric (regenerated)
+  - Chapter 11: Captured during Void-Breaker supply raid
+- **Capture Location**: Held by Alliance within Holy Dome
+- **Threat Level**: NEUTRALIZED (currently contained)
 
-## Summary by Chapter
+---
 
-### Chapter 3: The Seal Breaks
-- All 7 Generals emerge when the Demon King returns
-- Demonstrated their power to the Alliance
+### 4. Vex (Herald of Plague)
+- **Status**: ALIVE - CRITICALLY WOUNDED
+- **Abilities**: Plague breath, disease clouds, slow regeneration
+- **Role**: Biological warfare specialist
+- **Major Appearances**:
+  - Chapter 8: Attacked Aric with plague breath; disintegrated by his light-blade
+- **Current State**: Disintegrated to ash by Aric but slowly regenerating
+- **Threat Level**: REDUCED due to injuries; recovering
 
-### Chapter 8: The Jaws Close
-- 5 Generals attack the Valley of Kings
-- Aric kills Noxia, severely wounds Vex
-- 3 Generals survive: Malakor, Dravos, and one other
-- 2 Generals were elsewhere (not present at this battle)
+---
 
-### Chapter 9: The Price of Legend
-- "Four Demon Generals" mentioned: Malakor, Xylos, Dravos, and a fifth unnamed
-- This accounts for the survivors + those who weren't at the Valley battle
+### 5. Noxia (Herald of Shadows/Shadow Assassin)
+- **Status**: DECEASED
+- **Abilities**: Shadow travel, emerged from targets' own shadows, assassination
+- **Role**: Assassination specialist
+- **Major Appearances**:
+  - Chapter 8: Appeared from Aric's own shadow, stabbed him in kidney
+- **Death**: Vaporized by Aric's "Final Horizon" technique (Chapter 8)
+- **Significance**: First Demon General to be permanently killed
+- **Legacy**: Proved Generals CAN be killed
 
-### Chapter 11: The Siege of Hope
-- Xylos captured during Temple of Stars ambush
-- Major victory for The Exiled
+---
 
-### Book 1 End Status:
-- **Active**: Malakor, Dravos, + 3 others (5 total)
-- **Captured**: Xylos (1)
-- **Deceased**: Noxia (1)
-- **Wounded/Status Unknown**: Vex (may recover)
+### 6. Unknown General #1
+- **Status**: ACTIVE (presumed)
+- **Appearances**: Not directly encountered in Book 1
+- **Notes**: Part of original Seven; operating on other fronts
 
-## Notes on Demon General Abilities
+---
 
-- Each General commands specialized demon legions
-- They can coordinate multi-front assaults
-- Capable of tactical adaptation and learning
-- Strong enough to require multiple elite warriors to defeat
-- Aric (Sword Saint) needed his full power to kill one and wound another before dying
+### 7. Unknown General #2
+- **Status**: ACTIVE (presumed)
+- **Appearances**: Not directly encountered in Book 1
+- **Notes**: Part of original Seven; held in reserve or commanding elsewhere
+
+---
+
+## SUMMARY TABLE
+
+| General | Title | Status | Key Chapter | Notable Action |
+|---------|-------|--------|-------------|----------------|
+| Malakor | Herald of Despair | ACTIVE | 8, 10, 15 | Leads hunt for Kaelen |
+| Dravos | Herald of War | ACTIVE | 8, 13 | Killed Aric |
+| Xylos | Herald of Pain | CAPTURED | 8, 11 | Held by Alliance |
+| Vex | Herald of Plague | WOUNDED | 8 | Recovering slowly |
+| Noxia | Herald of Shadows | DECEASED | 8 | Killed by Aric |
+| ??? | Unknown | ACTIVE | -- | Not encountered |
+| ??? | Unknown | ACTIVE | -- | Not encountered |
+
+---
+
+## BATTLE OF VALLEY OF KINGS (Chapter 8)
+
+**Generals Present**: All 5 known (Malakor, Dravos, Xylos, Vex, Noxia)
+
+**Aric's Final Stand**:
+1. Drew his hidden second sword (wakizashi of white light)
+2. Cut off Malakor's arm (regenerated from shadow)
+3. Stabbed Xylos through chest (regenerated)
+4. Blinded Vex with light-blade
+5. Noxia stabbed him from his own shadow
+6. Used "Final Horizon" technique - horizontal wave of destruction
+7. Killed Noxia (vaporized)
+8. Disintegrated Vex (slowly regenerating)
+9. Cut Xylos in half
+10. Dravos caught the strike, drove claymore through Aric's chest
+
+**Result**: 1 General killed, 1 critically wounded, 1 later captured. Aric died.
+
+---
+
+## BOOK 1 END STATUS
+
+- **Active**: 2 (Malakor, Dravos)
+- **Wounded/Recovering**: 1 (Vex)
+- **Captured**: 1 (Xylos)
+- **Deceased**: 1 (Noxia)
+- **Unknown/Unrevealed**: 2
+
+---
+
+*Last Updated: Book 1 Complete*

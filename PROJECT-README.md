@@ -1,141 +1,142 @@
-# Chronicles of Destiny
+# Chronicles of Destiny - Project Guide
 
 **Genre:** Fantasy Light Novel
-**Style:** Sword Art Online (VR elements) meets Game of Thrones (political intrigue)
+**Style:** Epic warfare meets political intrigue (Game of Thrones style)
 **Audience:** Mature (20+)
 **Format:** Multi-book series
 
 ## Project Status
 
-- ✅ **Book 1:** The Dance of Life and Death (15 chapters, COMPLETE)
-- 📝 **Book 2:** The Birth of a Fallen Hero (Planned)
-- 📝 **Book 3:** The Darkest Light (Planned)
-- 📝 **Book 4:** [Title TBD] (Planned)
+| Book | Title | Chapters | Status |
+|------|-------|----------|--------|
+| 1 | Dance of Life and Death | 15 | ✅ Complete & Revised |
+| 2 | Birth of Fallen Hero | - | 📝 Planned |
+| 3 | Darkest Light | - | 📝 Planned |
+| 4 | TBD | - | 📝 Planned |
 
 ## Repository Structure
 
 ```
 Chronicles-of-Destiny/
 │
-├── 00-Series/                          # Series-wide resources
-│   ├── World-Building/                 # Universal world lore
-│   │   ├── Characters/                # Character profiles (organized by role)
-│   │   ├── Locations/                 # Geography and places
-│   │   ├── Magic.md                   # Magic systems
-│   │   ├── Races.md                   # Races of Mythosia
-│   │   ├── Jobs.md                    # Job/class progression
-│   │   ├── Items/                     # Important artifacts
-│   │   └── Pre-War-Country.md         # Historical kingdoms
-│   └── README.md                       # Series overview guide
-│
-├── Book-1-Dance-of-Life-and-Death/    # Book 1 (COMPLETE)
+├── Book-1-Dance-of-Life-and-Death/    # BOOK 1 (COMPLETE)
 │   ├── 01-Planning/                   # Plot outlines and blueprints
 │   ├── 02-Chapters/                   # 15 completed chapters
-│   ├── 03-Reference/                  # Summaries and completion docs
-│   └── README.md                       # Book 1 guide
+│   ├── 03-Reference/                  # Summaries, critiques, character tracking
+│   └── World Setting/                 # World state AT END of Book 1
+│       ├── Characters/                # By role: Main, Supporting, Antagonists, Minor
+│       ├── Locations/                 # Geography and places
+│       └── Items/                     # Artifacts and weapons
 │
-├── Book-2-Birth-of-Fallen-Hero/       # Book 2 (PLANNED)
-│   ├── 01-Planning/                   # Plot outline (ready)
+├── Book-2-Birth-of-Fallen-Hero/       # BOOK 2 (PLANNED)
+│   ├── 01-Planning/                   # Plot outline ready
 │   ├── 02-Chapters/                   # (Empty - not yet written)
-│   ├── 03-Reference/                  # (Empty - create after writing)
-│   └── README.md                       # Book 2 guide
+│   ├── 03-Reference/                  # (Create after writing)
+│   └── World Setting/                 # (Create when writing - inherits from Book 1)
 │
-├── Book-3-Darkest-Light/              # Book 3 (PLANNED)
-│   └── [Same structure as Book 2]
+├── Book-3-Darkest-Light/              # BOOK 3 (PLANNED)
+├── Book-4-TBD/                        # BOOK 4 (PLANNED)
 │
-├── Book-4-TBD/                        # Book 4 (PLANNED)
-│   └── [Same structure as Book 2]
+├── Plot Setting/                      # Cross-book plot documentation
 │
 ├── CLAUDE.md                          # AI writing assistant instructions
-├── requirement.txt                    # Chapter generation requirements
-└── PROJECT-README.md                  # This file
+├── PROJECT-README.md                  # This file
+├── README.md                          # Project summary
+└── requirement.txt                    # Chapter generation requirements
 ```
+
+## Key Organizational Principle
+
+### Per-Book World Setting
+
+Each book has its OWN `World Setting/` folder tracking the world state at that point:
+
+- **Book 1 World Setting**: Characters, locations, items as of Book 1 END
+- **Book 2 World Setting**: Inherits from Book 1, tracks new changes
+- **Book 3 World Setting**: Inherits from Books 1-2
+
+This allows proper tracking of:
+- Character deaths (Elfiria dies Ch14, Aric dies Ch8)
+- Status changes (Xylos captured Ch11)
+- New locations (Deephollow established)
+- World events (Holy Dome activation)
 
 ## Quick Start Guide
 
+### For Reading
+Navigate to `Book-1-Dance-of-Life-and-Death/02-Chapters/` and start with Chapter 1.
+
 ### For Writing New Chapters
 
-1. **Choose Your Book** - Navigate to the book folder (e.g., `Book-2-Birth-of-Fallen-Hero/`)
-2. **Check Planning** - Read `01-Planning/` files (plot outline, chapter outline, world state)
-3. **Reference World-Building** - Check `00-Series/World-Building/` for:
-   - Character profiles and status
-   - Location details
-   - Magic system rules
-   - Race and job information
-4. **Write Chapter** - Follow `requirement.txt` guidelines (5000+ words, light novel style)
-5. **Save Chapter** - Place in book's `02-Chapters/` folder
-6. **Update References** - After book completion, update `03-Reference/` materials
-
-### For Referencing Previous Books
-
-When writing Book N, you can reference:
-- ✅ All events from Books 1 through N-1
-- ✅ World-building from `00-Series/World-Building/`
-- ✅ Character status from previous books' `03-Reference/` folders
-- ❌ Future books (maintains chronological integrity)
+1. **Choose Your Book** - Navigate to the book folder
+2. **Check Planning** - Read `01-Planning/` files
+3. **Reference World State** - Check PREVIOUS book's `World Setting/`
+4. **Check Continuity** - Read previous book's `03-Reference/`
+5. **Write Chapter** - Follow `requirement.txt` (5000+ words, light novel style)
+6. **Save Chapter** - Place in book's `02-Chapters/` folder
+7. **After Book Completion** - Create/update that book's `World Setting/`
 
 ## Key Files
 
 | File | Purpose |
 |------|---------|
-| **CLAUDE.md** | Instructions for AI writing assistant |
+| **CLAUDE.md** | AI writing assistant instructions |
 | **requirement.txt** | Chapter generation requirements and style guide |
-| **00-Series/World-Building/** | Universal lore (magic, races, jobs, etc.) |
-| **00-Series/World-Building/Characters/** | All character profiles organized by role |
-| **Book-X/01-Planning/** | Plot and chapter outlines for each book |
-| **Book-X/02-Chapters/** | Actual written chapters |
-| **Book-X/03-Reference/** | Book summaries and world state after completion |
-
-## Writing Workflow
-
-### Starting a New Book
-
-1. Review previous book's `03-Reference/World-Changes.md`
-2. Create `World-State-Book-X.md` in new book's `01-Planning/`
-3. Expand plot outline into detailed chapter outline
-4. Begin writing chapters based on chapter outline
-
-### While Writing
-
-1. Reference `requirement.txt` for style and content requirements
-2. Check character profiles for consistency
-3. Verify magic/race/job rules in world-building files
-4. Maintain 5000+ word minimum per chapter
-5. Balance action, politics, character development, humor, romance
-
-### After Completing a Book
-
-1. Create summary in `03-Reference/Book-Summary.md`
-2. Document character status changes in `03-Reference/Character-Status.md`
-3. Record world changes in `03-Reference/World-Changes.md`
-4. Update character profiles in `00-Series/World-Building/Characters/` if needed
+| **Book-X/01-Planning/** | Plot and chapter outlines |
+| **Book-X/02-Chapters/** | Written chapters |
+| **Book-X/03-Reference/** | Character status, summaries, critiques |
+| **Book-X/World Setting/** | World state at end of that book |
 
 ## World of Mythosia
 
 ### Magic Systems
-1. **Aether/Celestial** - Divine magic
-2. **Elemental** - Nature-based magic
-3. **Shadow/Void** - Dark magic
+1. **Aether/Celestial** - Divine magic (Aasimar, priests)
+2. **Elemental** - Nature-based magic (mages, various races)
+3. **Shadow/Void** - Dark magic (demons, corrupted beings)
 
-### Major Factions (as of Book 1 end)
-- **Alliance of Light** - Four kingdoms within Holy Dome
-- **The Exiled** - Resistance in outer lands (led by Kaelen)
-- **Demon Army** - Demon King and Generals controlling outer lands
+### Major Factions (End of Book 1)
+
+| Faction | Status | Territory |
+|---------|--------|-----------|
+| Alliance of Light | 4 kingdoms protected | Within Holy Dome |
+| The Exiled | ~1,500 fighters | Outer lands (Deephollow) |
+| Demon Army | Demon King + Generals | All outer lands |
 
 ### Key Locations
-- **Inner Kingdoms** (Protected by Holy Dome): Aetheria, Eldoria, Sylvanaria, Drakoria
-- **Fallen Outer Lands**: Kharaz'Mar, Luminara, Aridia
-- **Deephollow** - The Exiled's base
+- **Protected (Holy Dome)**: Aetheria, Eldoria, Sylvanaria, Drakoria
+- **Fallen**: Kharaz'Mar, Luminara, Aridia
+- **Resistance Base**: Deephollow
 
-## Character Organization
+## Character Quick Reference (End of Book 1)
 
-Characters are organized by role in `00-Series/World-Building/Characters/`:
-- **Main/** - Protagonists and central characters
-- **Supporting/** - Important allies and secondary characters
-- **Antagonists/** - Villains and demon forces
-- **Minor/** - Named but less significant characters
+### Protagonists (The Trinity)
+| Character | Status | Role |
+|-----------|--------|------|
+| Kaelen | ALIVE | Commander of The Exiled |
+| Lyra | ALIVE | Second-in-Command |
+| Drakon | ALIVE | Key Commander |
 
-See `00-Series/World-Building/Characters/README.md` for character index.
+### Deceased Main Characters
+- **Elfiria** - Died Chapter 14 (overuse of Holy Dome)
+- **Aric** - Died Chapter 8 (fighting 5 Demon Generals)
+
+### Demon Generals
+| General | Title | Status |
+|---------|-------|--------|
+| Malakor | Herald of Despair | ACTIVE |
+| Dravos | Herald of War | ACTIVE |
+| Xylos | Herald of Pain | CAPTURED |
+| Vex | Herald of Plague | WOUNDED |
+| Noxia | Herald of Shadows | DECEASED |
+
+## Writing Style
+
+- **Format:** Light novel (5000+ words per chapter)
+- **Tone:** Balanced action, politics, character development
+- **Content:** Mature themes - combat, romance, moral dilemmas
+- **Humor:** Witty dialogue and character banter
+- **POV:** Multiple perspectives when appropriate
+- **Setting:** Real-world fantasy (NO game mechanics/VR elements)
 
 ## Core Themes
 
@@ -146,23 +147,6 @@ See `00-Series/World-Building/Characters/README.md` for character index.
 - Power and corruption
 - Hope in darkness
 
-## Writing Style
+---
 
-- **Format:** Light novel (5000+ words per chapter)
-- **Tone:** Balanced action, politics, character development
-- **Content:** Mature themes including combat, romance, and moral dilemmas
-- **Humor:** Witty dialogue and character banter
-- **POV:** Multiple perspectives when appropriate
-
-## Version Control Notes
-
-Old folder structure (deprecated):
-- `World Setting/` → Moved to `00-Series/World-Building/`
-- `Plot Setting/` → Distributed to each book's `01-Planning/`
-- `Book/` → Renamed to `Book-X-Title/` with better organization
-
-All files have been reorganized for easier multi-book management.
-
-## Contact & Contribution
-
-This is a private novel project. For questions or collaboration, contact the repository owner.
+*Private Novel Project - December 2024*

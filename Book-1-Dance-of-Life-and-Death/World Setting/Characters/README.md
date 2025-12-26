@@ -64,15 +64,16 @@ Primary villains and demon forces. Located in `Antagonists/` folder.
 ### The Seven Demon Generals
 - **[General Malakor](Antagonists/General-Malakor.md)** - Herald of Despair; First General; Primary recurring villain
 - **[Other Demon Generals](Antagonists/Other-Demon-Generals.md)** - Contains profiles for:
-  - General Xylos (Herald of Suffering) - Wounded
-  - General Dravos (Herald of War) - Active
+  - General Dravos (Herald of War) - Active; killed Aric
+  - General Xylos (Herald of Pain) - **CAPTURED** (Chapter 11)
   - General Vex (Herald of Plague) - Critically wounded
   - General Noxia (Herald of Shadows) - DECEASED (killed by Aric)
   - Two unnamed generals (not yet revealed)
 
 **Generals Status (End of Book 1):**
 - Active: Malakor, Dravos
-- Wounded/Recovering: Xylos, Vex
+- Captured: Xylos
+- Wounded/Recovering: Vex
 - Deceased: Noxia
 - Unknown: Two generals not yet introduced
 
@@ -83,13 +84,10 @@ Primary villains and demon forces. Located in `Antagonists/` folder.
 Named characters with limited but notable roles. Located in `Minor/` folder.
 
 - **[Minor Characters](Minor/Minor-Characters.md)** - Consolidated document containing:
-  - Horvath (Merchant)
-  - Rakken (Ranger/Tracker)
-  - Elise (Mage apprentice)
-  - Sera/Sara (Barmaid)
-  - General Marcus (Military witness)
-  - High Priest Ardeth (Aasimar priest)
-  - Dwarven healers
+  - **Chapter 1 Antagonists:** Scarred Leader + 8 enhanced warriors (ALL DECEASED)
+  - **Chapter 1 Allies:** Horvath, Elise, Rakken, Sera
+  - **Alliance/Political:** General Marcus, High Priest Ardeth, Meera, Lord Valen, Torvin, Thrain
+  - **The Exiled:** Thane Borin (DECEASED), Thomas & Elara, Jory (DECEASED), Jolan & Mira (DECEASED)
   - Other minor named characters
 
 ---
