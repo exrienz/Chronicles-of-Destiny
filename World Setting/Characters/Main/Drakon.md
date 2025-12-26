@@ -28,6 +28,7 @@
 - **Features:** Fully draconic; wings, claws, armored scales
 - **Transformation:** Can partially or fully transform
 - **Combat Capability:** Devastating in full dragon form
+- **Traits:** Sings in Draconic when drunk
 
 ## Personality
 

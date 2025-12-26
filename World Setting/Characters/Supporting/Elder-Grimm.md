@@ -17,7 +17,8 @@
 - **Beard:** Singed from battle
 - **Armor:** Battered but maintained
 - **Demeanor:** Stern but caring
-- **Physical Condition:** Battle-scarred but resilient
+- **Physical Condition:** Battle-scarred, beard singed, armor battered
+- **Attire:** Heavy dwarven armor (battered)
 
 ## Personality
 
@@ -52,12 +53,12 @@
 - **Chapter 9:** Led 100 dwarven survivors to Alliance after Kharaz'Mar's fall
 - **Chapter 12:** Opposed Holy Dome decision (Kharaz'Mar not included) but accepted reality
 - **Chapter 14:** Helped establish Deephollow base for The Exiled
-- **Chapter 15:** Key commander maintaining the Chronicles (historical records)
+- **Chapter 15:** Key commander maintaining the Chronicles (historical records); shows Kaelen "The Chronicle of the Exiled"
 
 ## Role in The Exiled
 
 - **Commander:** One of key military leaders
-- **Historian:** Maintains Chronicles of The Exiled
+- **Historian:** Keeper of "The Chronicle of the Exiled"
 - **Advisor:** Provides counsel based on experience
 - **Dwarven Representative:** Leads dwarven contingent
 

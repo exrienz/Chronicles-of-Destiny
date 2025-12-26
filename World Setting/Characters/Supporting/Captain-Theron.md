@@ -13,8 +13,11 @@
 
 ## Physical Appearance
 
+- **Build:** Tall, broad-shouldered
+- **Face:** Scar across his face
+- **Attire:** Royal Guard armor (Arcanis/Eldoria)
 - **Bearing:** Military professionalism
-- **Demeanor:** Professional soldier
+- **Demeanor:** Professional, stern, dutiful
 
 ## Personality
 

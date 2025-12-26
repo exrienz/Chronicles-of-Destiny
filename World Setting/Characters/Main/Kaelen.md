@@ -85,15 +85,15 @@
 
 ### Middle Chapters (5-10)
 - **Chapter 5:** Trains with Aric at Alliance Base; bonds with Elfiria
-- **Chapter 6:** Volunteers for Vanguard; first major battle at Valley of Kings; awakens first stage of Sword Saint power
+- **Chapter 6:** Volunteers for Vanguard; first major battle at Valley of Kings; awakens first stage of Sword Saint power; sustains claw wound to chest; healed by Elfiria (first intimate moment, first kiss)
 - **Chapter 7-8:** Becomes part of legendary "Trinity" with Lyra and Drakon; witnesses Aric's last stand and death
-- **Chapter 9:** Leads survivors in retreat; first kiss with Elfiria
+- **Chapter 9:** Leads survivors in retreat; advocates for refugees at Arcanis
 - **Chapter 10:** Defends Arcanis during siege
 
 ### Final Chapters (11-15)
 - **Chapter 11-13:** Protects Elfiria during Holy Dome activation; faces Demon General Malakor directly
 - **Chapter 14:** Defies Alliance orders to help outer lands refugees; founds The Exiled with Elfiria; witnesses Elfiria's death; buries her at Deephollow
-- **Chapter 15:** Leads The Exiled for one year; builds resistance to 1,500 fighters; personally noticed by Demon King; continues fighting despite grief
+- **Chapter 15:** Leads The Exiled for one year; builds resistance to 1,500 fighters; rejects Demon King's offer to become his champion; continues fighting despite grief
 
 ## Character Arc (Book 1)
 

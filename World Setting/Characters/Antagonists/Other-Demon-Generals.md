@@ -98,7 +98,7 @@ This file documents the remaining Demon Generals from Book 1.
 
 ## General Noxia - Herald of Shadows
 
-**Status:** DECEASED (killed Chapter 8)
+**Status:** DECEASED (killed Chapter 8 by Aric)
 
 ### Basic Information
 - **Title:** Herald of Shadows

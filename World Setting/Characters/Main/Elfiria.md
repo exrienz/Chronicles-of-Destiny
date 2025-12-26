@@ -14,12 +14,12 @@
 
 ## Physical Appearance
 
-- **Hair:** Silver-white, long and flowing
+- **Hair:** Silver-white, long and flowing; seems to gather light
 - **Eyes:** Golden with starlight quality; described as holding divine light
 - **Build:** Slender, graceful
 - **Aura:** Radiates divine presence; creates sense of hope in those around her
-- **Special Features:** Becomes increasingly translucent/ethereal as she uses Holy Dome powers extensively
-- **Attire:** Initially ceremonial white and gold robes; adapts to practical clothing when joining The Exiled
+- **Special Features:** Becomes increasingly translucent/ethereal as she uses Holy Dome powers extensively; health deteriorating rapidly (dying from life drain)
+- **Attire:** Ceremonial white and gold robes (High Priestess/Queen of Aetheria); adapts to practical clothing when joining The Exiled
 
 ## Personality
 
