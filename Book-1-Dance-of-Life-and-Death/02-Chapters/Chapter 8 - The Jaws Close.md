@@ -253,6 +253,10 @@ Rage. Pure, incandescent rage.
 
 The awakening power surged, threatening to consume him entirely. Use it. Kill them all. Avenge Aric even if it destroys you.
 
+*This is what they did to your village,* that dark voice whispered. *The bandits who burned everything—they were working for HIM. The Demon King orchestrated it all. Every death, every loss, feeding his resurrection.*
+
+Kaelen didn't know if it was true. But in that moment, he believed it.
+
 "KAELEN!" Lyra grabbed his arm. "WE HAVE TO GO! WE HAVE TO GET ELFIRIA OUT!"
 
 That penetrated through the fury. Elfiria. She was alone, exposed, the Demon Generals' primary target.

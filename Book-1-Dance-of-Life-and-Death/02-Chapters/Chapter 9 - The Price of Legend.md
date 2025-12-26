@@ -3,6 +3,8 @@
 
 The week following the Valley of Kings massacre was a blur of grief, emergency councils, and desperate preparation for a siege everyone knew was coming.
 
+*Eleven weeks since the Demon King returned. Five days since the bridge. Since Aric.*
+
 Kaelen spent most of it trying not to think about Aric.
 
 It didn't work.
@@ -14,6 +16,10 @@ The Sword Saint's death haunted him—those final moments, the smile before the 
 "Someone has to brood. Might as well be me."
 
 "Drakon suggested we hold a memorial. Something to honor Aric and all the soldiers who fell." She leaned against the parapet beside him. "I was surprised too. He's been quieter since the battle. I think seeing Aric fall affected him more than he's admitting."
+
+"How is he? Physically, I mean. That bridge collapse..."
+
+"Some bruises, a cracked rib that's already healing. Dragon constitution." Lyra's smile was thin. "I checked on him this morning. He was practicing his fire breathing in the courtyard, so I'd say he's recovering. Emotionally is another matter."
 
 Kaelen looked out over the city. Arcanis was transforming into a fortress—walls reinforced with additional stonework, wards being strengthened by exhausted mages, civilians evacuated from the outer districts. Supply caravans brought in grain, weapons, anything that could help withstand a siege. The demon army would come eventually. It was just a matter of when.
 
@@ -171,7 +177,13 @@ Drakon considered this, his reptilian eyes unreadable. "I do not like this war a
 
 Elfiria slipped her hand into his, the gesture hidden by the folds of her robes and the press of the crowd. He squeezed gently, drawing comfort from the contact.
 
-"Walk with me?" she asked quietly.
+Across the garden, Lyra stood alone by a fountain, watching them. The expression on her face was unreadable—but Kaelen caught it before she turned away. Something raw. Something quickly hidden.
+
+He felt a pang of guilt he couldn't quite name. There was something between him and Lyra—comradeship, certainly. Trust forged in battle. But the way she sometimes looked at him when she thought he wasn't watching... He'd been too focused on Elfiria to notice until now.
+
+*Later*, he told himself. *Deal with it later. When surviving isn't the only priority.*
+
+"Walk with me?" Elfiria asked quietly.
 
 He nodded.
 

@@ -1,6 +1,8 @@
 # Book 1: The Dance of Life and Death
 ## Chapter 12: The Last Stand
 
+*Fifteen weeks since the Demon King's return. One day after the Holy Dome's activation.*
+
 The emergency council convened the morning after the Holy Dome's activation, and the atmosphere was toxic from the first moment.
 
 Kaelen stood in the back of the chamber, technically not part of the official council but present because Elfiria had specifically requested his attendance. She sat at the round table looking like a ghost—translucent skin, silver hair now streaked with white, divine aura so faint it was barely visible.
@@ -143,7 +145,9 @@ Some called it madness. Some called it treason.
 
 Some called it heroism.
 
-By evening, a crowd had gathered at the western gate. Kaelen did a rough count—maybe sixty people total. Soldiers who couldn't stomach abandoning refugees. Mages who believed in helping everyone. Grimm and his dwarves. Various others whose consciences wouldn't let them hide safely.
+By evening, a crowd had gathered at the western gate. Kaelen did a rough count—maybe sixty people total. Soldiers who couldn't stomach abandoning refugees. Mages who believed in helping everyone. Gorim and his dwarves, their spears freshly sharpened, their expressions promising violence against anything that threatened their new purpose. Various others whose consciences wouldn't let them hide safely.
+
+"My King ordered me to stay," Gorim said gruffly when Kaelen approached. "I told him my king was in a cave in Ironhold, and I was standing here with my friends. He didn't argue."
 
 Sixty people against the demon army.
 

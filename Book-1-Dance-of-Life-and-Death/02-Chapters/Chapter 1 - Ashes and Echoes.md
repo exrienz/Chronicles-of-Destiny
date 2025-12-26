@@ -1,6 +1,8 @@
 # Book 1: The Dance of Life and Death
 ## Chapter 1: Ashes and Echoes
 
+Something was wrong in Oakhaven. Kaelen couldn't name it—couldn't point to one specific thing and say *that, that's what's making my skin crawl*. But soldiers had passed through the town gates three times in the past hour, and none of them were local garrison. Too disciplined. Too well-armed. Too quiet.
+
 The ale tasted like regret, which was fitting. Everything in Oakhaven tasted like regret if you gave it enough thought—the water from the well, the stew at The Rusty Blade, even the women who occasionally graced Kaelen's bed. Not that he'd had much of that lately. Hard to maintain a healthy romantic life when you spent most of your time killing things for coin.
 
 Kaelen took another sip and let his gaze drift across the tavern's common room. The Rusty Blade was living up to its name tonight: dull, worn, and probably dangerous if you grabbed it the wrong way. A dozen patrons hunched over their drinks, each one looking like they'd rather be anywhere else. He could relate.
@@ -104,6 +106,8 @@ The nine enhanced men chose that moment to stand up. They settled their tab, exc
 Then they were gone, night swallowing them whole.
 
 Kaelen stared at the door for a long moment. Maybe it was paranoia. Maybe it was pattern recognition. Either way, his instincts were screaming that something was very wrong in Oakhaven. In Eldoria. In the whole damn world.
+
+Outside, the night sky seemed darker than it should be—the stars somehow dimmer, as if something was standing between them and the earth, breathing shadow. Kaelen shook off the feeling. Too much ale. Too many dead men.
 
 He finished his ale, paid his tab, and headed upstairs to the room he'd been renting by the week. It was small, sparse, and had a window that opened onto the back alley—always important to have an exit strategy. His pack was already organized, a habit from years of needing to run at a moment's notice. Weapons cleaned and sharpened. Armor mended. Provisions packed.
 
@@ -279,7 +283,7 @@ Then the forest exploded into violence, and talking time was over.
 
 The enhanced warriors moved fast—faster than humans should move. But Kaelen had been fighting things faster than him his entire career. Speed meant nothing if you couldn't predict where the attack was coming from.
 
-The first warrior came at him with twin daggers, all flash and fury. Kaelen sidestepped, drew his left sword, and cut the man's hamstrings in one smooth motion. The warrior dropped, screaming, and Kaelen's right sword ended it.
+The first warrior came at him with twin daggers, all flash and fury. Kaelen sidestepped, drew his left sword, and cut the man's hamstrings in one smooth motion. The impact juddered up his arm—the man's flesh was wrong, too dense, like cutting through salted leather instead of meat. The warrior dropped, screaming, and Kaelen's right sword ended it. Blood made his grip slick; the metallic smell of it filled his nostrils, mixing with the forest's earthy musk.
 
 Two down. Six to go.
 
@@ -327,9 +331,9 @@ Except Horvath was there, sword up, intercepting the strike with a crash of stee
 
 "Like hell," Gorim snarled, moving to flank.
 
-Kaelen's opponent used the distraction to press an attack. Blade came at Kaelen's throat. He twisted, felt steel kiss his cheek in a hot line of pain, and retaliated with a vicious slash that opened the warrior's arm to the bone.
+Kaelen's opponent used the distraction to press an attack. Blade came at Kaelen's throat. He twisted, felt steel kiss his cheek in a hot line of pain—a burning, intimate sensation that cut through the battle-haze—and retaliated with a vicious slash that opened the warrior's arm to the bone.
 
-The man screamed and stumbled back. Kaelen didn't give him time to recover—three quick strikes, the last taking the warrior's head clean off.
+The man screamed and stumbled back. Kaelen's shoulder ached from the repeated impacts, his lungs burning in his chest, but he didn't give the warrior time to recover—three quick strikes, the last taking the man's head clean off. Warm blood splattered across his face. He didn't wipe it away.
 
 Eight down. One to go.
 

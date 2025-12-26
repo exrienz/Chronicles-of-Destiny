@@ -35,7 +35,7 @@ Lyra's arrow took the lead demon through the throat before the word finished lea
 
 The demons had maybe two seconds of confusion before the ambush turned lethal.
 
-Kaelen's blades found the first enhanced warrior's weak points—under the arm, through the gap in armor, quick and clean. The second warrior managed to block, but Kaelen was already moving, flow-state active, body responding faster than thought. Parry, riposte, pivot, strike. The warrior fell with a sword through its eye socket.
+Kaelen's blades found the first enhanced warrior's weak points—*Serpent's Tooth*, the strike Aric had drilled into him: under the arm, through the gap in armor, quick and clean. The second warrior managed to block, but Kaelen was already moving, flow-state active, body responding faster than thought. Parry, riposte, pivot, strike. The warrior fell with a sword through its eye socket.
 
 Lyra methodically put arrows through demons from her concealed position, each shot finding gaps in armor or exposed flesh. Her accuracy was supernatural—elven heritage combined with centuries of practice and the enchantments on her bow making every shot devastating.
 
@@ -69,7 +69,7 @@ Kaelen flew ten feet, hitting the dirt hard. His vision swam. The ogre loomed ov
 
 "Kaelen!" Lyra's scream was distant.
 
-The awakening power stirred beneath his skin, tempting him. Use it. Become lightning. Kill everything.
+The power Aric called *Echo State* stirred beneath his skin, tempting him. Use it. Become lightning. Kill everything.
 
 No. Control. Discipline. Aric's teachings. *If you flood the engine, you stall.*
 
@@ -164,6 +164,8 @@ The grinder kept grinding.
 ---
 
 **Forward Camp - Three Days Later**
+
+*Nine weeks since the Demon King's return. Fifty-three days of continuous combat.*
 
 "Tell me about your village," Lyra said.
 

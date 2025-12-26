@@ -2,8 +2,10 @@
 ## Chapter 13: The Light of Salvation
 
 **Three Months After Leaving the Dome**
- 
- It started with a wedding.
+
+*Twenty-seven weeks since the Demon King's return. Deepest into demon territory any Alliance force has ventured.*
+
+It started with a wedding.
  
  Thomas and Elara, two refugees from Kharaz'Mar who had found love amidst the ruins. They asked Elfiria to officiate, and Kaelen to stand guard (which he took a little too literally, standing at the altar in full plate armor).
  
@@ -39,7 +41,7 @@
  
  The first sign was the scout—young Jory, stumbling through the gate with three arrows in his back.
  
- "They're here," he gasped, blood bubbling on his lips as Grimm caught him. "Dravos. The Herald... he's here."
+ "They're here," he gasped, blood bubbling on his lips as Gorim caught him. "Dravos. The Herald... he's here."
  
  Then he died.
  
@@ -73,7 +75,11 @@ Lyra appeared beside him, already counting enemy formations. "This isn't random.
 
 "And go where? We've got five hundred refugees who can't fight. Running through demon territory won't save them."
 
-"Better than dying trapped in a fortress."
+"Better than dying trapped in a fortress. The north tunnels connect to the old dwarven mining network—Gorim's people mapped them decades ago. They'll get us to Deephollow, where there's another resistance cell."
+
+"If the tunnels aren't collapsed. Or flooded. Or full of void-spawn."
+
+"Details."
 
 Drakon thundered up the stairs, partially transformed already, scales gleaming. "IS EXCELLENT BATTLE! MANY DEMONS! VERY EXCITING! ALSO PROBABLY WE DIE! IS VERY GOOD DAY!"
 

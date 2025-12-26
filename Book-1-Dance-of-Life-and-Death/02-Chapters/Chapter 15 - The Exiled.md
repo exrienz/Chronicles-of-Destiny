@@ -3,13 +3,15 @@
 
 **One Year After Leaving the Dome**
 
+*Fifty-two weeks since the Demon King's return. The war has no end in sight.*
+
 The war room in Deephollow had evolved from a hastily converted dwarven hall into a proper command center. Maps covered the walls—not just of the outer lands, but of demon territories, supply routes, safe houses, resistance cells operating across half of Mythosia.
 
 Kaelen studied the latest intelligence reports, noting patterns in demon movements with the tactical instincts that had become second nature over twelve months of constant warfare.
 
 "Three new refugee camps identified in the northern territories," Lyra reported, marking positions. "Total population approximately eight hundred. Demon presence is light—looks like they're using the area as a staging ground, not expecting us to operate that far north."
 
-"Which makes it perfect for us," Grimm rumbled, studying the terrain. "Hit them before they reinforce. Standard extraction protocol."
+"Which makes it perfect for us," Gorim rumbled, studying the terrain. "Hit them before they reinforce. Standard extraction protocol."
 
 "Agreed." Kaelen made notes on the deployment roster. "Team assignments?"
 
@@ -43,7 +45,7 @@ The casual banter was routine now, but beneath it lay a steel framework of profe
  
  "Vet them carefully. Spies are inevitable."
  
- "Grimm is handling it personally. Anyone who gets past him deserves to be here."
+ "Gorim is handling it personally. Anyone who gets past him deserves to be here."
  
  Kaelen nodded. "What about the supply run from Iron-Iron?"
  
@@ -93,7 +95,7 @@ The room went quiet.
 
 "Nothing good," Kaelen replied. "Probably figures I'm more useful corrupted than dead. Malakor tried something similar with Aric—wanted to break him, turn him into a champion of despair."
 
-"Didn't work with Aric. Won't work with you," Grimm said confidently.
+"Didn't work with Aric. Won't work with you," Gorim said confidently.
 
 "Appreciate the faith. Still concerning that I'm on the Demon King's radar."
 
@@ -105,7 +107,7 @@ The room went quiet.
 
 Despite the concerning news, Kaelen smiled. Drakon's relentless optimism had kept The Exiled's morale strong through the darkest times. The dragon prince had matured significantly over the past year, gaining wisdom and tactical sense while maintaining his essential enthusiasm.
 
-"Alright, current operations," Kaelen redirected. "Lyra, prep your team for the northern extraction. I want you ready to move at dawn. Grimm, continue fortifying the western safe houses—if we're bringing in more refugees, we need secure locations. Drakon, coordinate with the aerial scouts. I want updated demon movement patterns for the entire northern territory."
+"Alright, current operations," Kaelen redirected. "Lyra, prep your team for the northern extraction. I want you ready to move at dawn. Gorim, continue fortifying the western safe houses—if we're bringing in more refugees, we need secure locations. Drakon, coordinate with the aerial scouts. I want updated demon movement patterns for the entire northern territory."
 
 They moved with practiced efficiency, a command team that had fought together, bled together, survived together for a year.
 
@@ -139,7 +141,7 @@ That should have been Kaelen's first warning.
 
 The second warning came two days later when scouts reported unusual demon movements—warbands pulling back from contested territories, consolidating forces in the eastern sectors.
 
-"They're planning something," Grimm observed, studying the reports. "This isn't random. Demons don't cede territory without reason."
+"They're planning something," Gorim observed, studying the reports. "This isn't random. Demons don't cede territory without reason."
 
 "Agreed," Kaelen said. "Recommendations?"
 

@@ -401,6 +401,12 @@ Not the whole city—just sections near the walls. But smoke rose in black pilla
 
 "We should—"
 
+The air changed. Kaelen felt it before he could name it—a wrongness, like the atmosphere itself was curdling. The taste of metal flooded his mouth, cold and sharp like licking a blade. The temperature dropped ten degrees in an instant.
+
+"Do you feel that?" Lyra whispered, her hand going to her bow.
+
+"Something's coming. Something wrong."
+
 The ground exploded twenty feet ahead of them.
 
 Kaelen had his swords out before the debris finished falling. Beside him, Lyra's bow was already drawn, scanning for threats.
@@ -449,7 +455,15 @@ The third beast blocked his path, grinning. "Hello, little swordsman. Want to da
 
 They fought. The corrupted beast was fast, strong, and vicious. Kaelen was faster. His blades wove patterns, drawing black blood from a dozen cuts. The thing kept coming, seeming to feel no pain.
 
-Elsewhere, the caravan fought for survival. Gorim's spear punched through corrupted skulls. Elise hurled fire that made the creatures scream. Rakken put arrows through inhuman eyes with mechanical precision.
+Elsewhere, the caravan fought for survival. Gorim's spear punched through corrupted skulls. Elise raised her staff, chanting words that burned the air, and hurled a gout of flame at a creature lunging for a refugee child. The fire caught it square in the chest—but instead of burning, the void-corruption seemed to *drink* the flames, the creature's black veins glowing brighter.
+
+"My magic—it's not working right!" Elise screamed, terror cracking her voice. "The void is eating it!"
+
+"Use pure force!" Lyra shouted back. "Not fire—kinetic force!"
+
+Elise switched tactics, slamming her staff down and releasing a wave of pure kinetic energy that threw three creatures backward. Not dead, but disrupted. That was something.
+
+Rakken put arrows through inhuman eyes with mechanical precision.
 
 And Lyra—Lyra was a revelation. She moved like water, bow and arrows finding targets with impossible speed. Three of the beasts fell to her shots in as many seconds.
 

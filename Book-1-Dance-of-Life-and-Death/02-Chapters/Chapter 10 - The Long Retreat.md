@@ -1,6 +1,8 @@
 # Book 1: The Dance of Life and Death
 ## Chapter 10: The Long Retreat
 
+*Twelve weeks since the Demon King's return. Day 3 of the siege of Arcanis.*
+
 The first assault came at midnight on the third day of the siege.
 
 Kaelen jerked awake at the sound of alarms, already reaching for his swords before his eyes fully opened. Outside his barracks window, the night sky lit up with magical fire—reds and blacks and sickly greens that meant void energy.
@@ -41,7 +43,7 @@ Silver energy flickered along his blades as he struck—throat, hamstring, armpi
 
 The assault lasted two hours before the demons pulled back, leaving Alliance casualties and corpses scattered across the battlements. Kaelen helped with triage—separating wounded who could be saved from those who couldn't, a grim calculus he'd learned to make without thinking too hard about it.
 
-Elfiria appeared with the healers, her hands glowing with divine light as she moved from wounded soldier to wounded soldier. Each healing drained her visibly—her divine aura dimming, dark circles deepening under her eyes.
+Elfiria appeared with the healers, her hands glowing with divine light as she moved from wounded soldier to wounded soldier. Each healing drained her visibly—her divine aura dimming, dark circles deepening under her eyes. Every touch of divine power cost her something that couldn't be easily replenished: life force, connection to the celestial realm, pieces of her own soul.
 
 "You need to pace yourself," Kaelen said when she reached him, swaying with exhaustion.
 

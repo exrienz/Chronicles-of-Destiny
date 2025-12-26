@@ -193,9 +193,9 @@ No time to think. Two more demons charging. Kaelen's blades wove patterns Aric h
 
 Around him, the Alliance line held. Barely. Shock troops fought with desperate efficiency, spears punching through demonic flesh, shields deflecting claws, battle cries mixing with death screams.
 
-Lyra had switched to a longer knife for close quarters, using her bow as a staff to keep demons at distance while placing perfect strikes to vital points. An aerial demon dove at her; she spun, bow coming up, and somehow managed to shoot it point-blank through the throat.
+Lyra had switched to a longer knife for close quarters, using her bow as a staff to keep demons at distance while placing perfect strikes to vital points. "Left flank, two champions breaking through!" she shouted. "Drakon, burn them!"
 
-Lyra had switched to a longer knife for close quarters, using her bow as a staff to keep demons at distance while placing perfect strikes to vital points. An aerial demon dove at her; she spun, bow coming up, and somehow managed to shoot it point-blank through the throat.
+An aerial demon dove at her; she spun, bow coming up, and somehow managed to shoot it point-blank through the throat.
 
 She grunted with the impact, shoving the corpse away and turning to drive her knife into another beast's eye. No quips. No clever remarks. Just breath coming in ragged gasps and the desperate need to survive.
 
@@ -243,7 +243,13 @@ Kaelen stood gasping, checking himself for wounds. Multiple cuts, nothing seriou
 
 "That was the warm-up." Aric stopped in front of the Vanguard. "You did well. Held the line, killed the champion, maintained discipline. But conserve your strength. When they come back, it'll be worse."
 
-He moved on, offering words of encouragement to other units. Kaelen slumped against a shield wall, drinking from his waterskin with shaking hands.
+General Marcus appeared beside Aric, his face gray with exhaustion. "First count is in, Commander. Three thousand dead. Twice that many wounded."
+
+Aric nodded, unsurprised. "And the demons?"
+
+"Fifteen thousand, maybe more. Good ratio, but..." Marcus shook his head. "We can't sustain this."
+
+"We won't have to. The second wave will be decisive—one way or another." Aric moved on, offering words of encouragement to other units. Kaelen slumped against a shield wall, drinking from his waterskin with shaking hands.
 
 "We survived," he said, more to himself than anyone else.
 

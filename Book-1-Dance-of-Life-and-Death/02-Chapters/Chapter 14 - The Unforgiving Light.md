@@ -3,6 +3,8 @@
 
 **Six Months After Leaving the Dome**
 
+*Forty weeks since the Demon King's return. The longest any resistance cell has survived in demon territory.*
+
 Deephollow had transformed from an abandoned dwarven ruin into something resembling hope made manifest.
 
 Kaelen stood on the battlements watching the sunrise paint the mountains in shades of gold and amber, and felt something he hadn't experienced in years: peace. Brief, fragile, probably temporary—but real.
@@ -89,7 +91,7 @@ She was dying, and everyone knew it.
 
 The war council convened an hour later in Deephollow's great hall—a magnificent chamber the dwarves had carved from living stone, now repurposed as The Exiled's command center.
 
-Grimm spread maps across the stone table, marking positions with practiced efficiency. "Three refugee camps. Eastern territories, near the old Kharaz'Mar border. Six hundred civilians, maybe more."
+Gorim spread maps across the stone table, marking positions with practiced efficiency. "Three refugee camps. Eastern territories, near the old Kharaz'Mar border. Six hundred civilians, maybe more."
 
 "Demon forces?" Kaelen asked.
 
@@ -109,7 +111,7 @@ One of the newer commanders—a former Luminara officer named Captain Theron—s
 
 "I'm not a queen anymore, Captain. I'm just another Exiled fighter who happens to have useful magic." She moved to the table, studying the maps. "What's the terrain like?"
 
-Grimm highlighted areas. "Canyon country. Lots of choke points, limited sight lines. Bad for large-scale maneuvering."
+Gorim highlighted areas. "Canyon country. Lots of choke points, limited sight lines. Bad for large-scale maneuvering."
 
 "Bad for demons too," Lyra observed. "They rely on overwhelming force. In canyons, numbers matter less than tactics."
 
@@ -119,9 +121,9 @@ Kaelen studied the map, tactical instincts Aric had drilled into him coming aliv
 
 "It also forces demons to split their response. They can't coordinate two warbands across three locations in canyon terrain." Kaelen traced routes. "Team One hits the northern camp, evacuates fast. Team Two takes the southern camp. Team Three—the largest force—hits the eastern camp and draws demon attention."
 
-"Who leads the diversion team?" Grimm asked.
+"Who leads the diversion team?" Gorim asked.
 
-"I do. With Drakon and fifty fighters." Kaelen looked at Lyra. "You take Team One—your archery is perfect for canyon ambushes. Grimm, Team Two. You know this terrain better than anyone."
+"I do. With Drakon and fifty fighters." Kaelen looked at Lyra. "You take Team One—your archery is perfect for canyon ambushes. Gorim, Team Two. You know this terrain better than anyone."
 
 "And me?" Elfiria asked.
 

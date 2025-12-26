@@ -133,6 +133,8 @@ But his presence filled the room like thunder before a storm.
 
 Kaelen studied the legend made flesh. Aric had the ageless quality of those who'd achieved the highest tiers of martial mastery—could have been forty or four hundred. His eyes were the most notable feature: gray as winter clouds, holding depths of experience that suggested he'd seen everything worth seeing and found most of it wanting.
 
+But Kaelen's attention caught on something else: Aric carried *two* swords. The katana at his hip was visible, elegant, famous. But there was another—a shorter blade strapped across his back, its scabbard worn smooth from decades of travel. Kaelen had never seen him draw it.
+
 "I didn't think he was real," Lyra said quietly. "The stories make him sound like myth."
 
 "He achieved Sword Saint twenty years ago," Gorim explained. "Youngest person ever. Since then, he's been leading the Alliance of Light's military forces. If anyone can teach us to fight demons, it's him."
@@ -215,7 +217,11 @@ Kaelen felt Lyra's elbow in his ribs. "You're thinking about it."
 
 "You absolutely are. You've got the 'I'm about to do something heroically stupid' face again."
 
-She was right, which was annoying. Kaelen was thinking about it. Thinking about how he'd spent seven years running from everything, surviving but never truly living. Thinking about refugees transformed by void energy. Thinking about his village burning and the guilt of being the only survivor.
+She was right, which was annoying. Kaelen was thinking about it. Thinking about how he'd spent seven years running from everything, surviving but never truly living. He'd spent those years avoiding exactly this kind of organized military structure—the chain of command, the politics, the expectation that you'd die on someone else's terms for someone else's reasons.
+
+But watching Aric move... some teachers were worth the bureaucracy. Some causes were worth the chains.
+
+Thinking about refugees transformed by void energy. Thinking about his village burning and the guilt of being the only survivor.
 
 Thinking about Elfiria's divine light and the terrible burden she carried.
 
@@ -278,7 +284,7 @@ Kaelen pulled himself up from the dirt, spitting out a mouthful of blood. His en
 
 "Most teachers breed corpses," Aric replied calmly. He stood perfectly still, katana sheathed, looking like he hadn't moved an inch in the last hour. "Demons will not critique your form. They will eat you. Again."
 
-Kaelen groaned and raised his practice swords—weighted wooden bokkens that felt like lead pipes. Beside him, Lyra was faring no better. She was covered in mud, her braid unraveling, panting hard.
+Kaelen groaned and raised his practice swords—weighted wooden bokkens that felt like lead pipes. Beside him, Lyra was faring no better. She was covered in mud, her braid unraveling, panting hard. Kaelen noticed she favored her left hand slightly less than yesterday—the silver scar from the barrier burn in Arcanis was still visible, but the healers had done good work. She'd told him the only lasting effect was a faint tingle when near powerful wards. A reminder that hesitation killed.
 
 "I hate him," she whispered. "I genuinely hate him. Is it possible to murder a Sword Saint?"
 

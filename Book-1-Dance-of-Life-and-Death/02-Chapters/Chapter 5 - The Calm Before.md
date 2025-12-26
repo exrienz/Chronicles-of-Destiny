@@ -1,6 +1,8 @@
 # Book 1: The Dance of Life and Death
 ## Chapter 5: The Calm Before
 
+Three weeks since the Demon King had torn the sky open above Arcanis. Three weeks of bruises, blood, and Aric's relentless training.
+
 Aric's definition of "training" apparently involved trying to kill them in increasingly creative ways.
 
 Kaelen hit the ground for the fifth time that morning, tasting blood and dirt in equal measure. Above him, the Sword Saint stood with his katana resting casually on his shoulder, looking like he'd been out for a pleasant stroll rather than dismantling eight fighters simultaneously.
@@ -23,7 +25,11 @@ Aric deflected every strike with minimal movement, his katana describing elegant
 
 Then the Sword Saint's blade stopped an inch from Kaelen's throat.
 
-"Dead. Again. But better." Aric lowered his weapon. "You're adapting. Good. Adaptability keeps you alive when skill fails."
+"Dead. Again. But better." Aric lowered his weapon. "Your foundation improves. Now watch this—this is *Storm of Blades*. The technique that made me famous."
+
+He moved. His katana became a blur, tracing patterns in the air so fast they left afterimages. Seven strikes in the time it took Kaelen to blink, each one precise enough to thread a needle.
+
+"Watch the footwork," Aric continued, already still again as if he'd never moved. "The power comes from the stance, not the arm. Adaptability keeps you alive when skill fails."
 
 The praise felt like being knighted. Kaelen tried not to look too pleased and failed utterly based on Lyra's smirk.
 
@@ -348,6 +354,8 @@ Come morning, he'd face demons.
 Tonight, he had hope.
 
 It would have to be enough.
+
+As the army mustered for the Valley of Kings, Kaelen shook off the feeling that this peace had been borrowed, not earned. And borrowed things always had to be returned.
 
 ---
 

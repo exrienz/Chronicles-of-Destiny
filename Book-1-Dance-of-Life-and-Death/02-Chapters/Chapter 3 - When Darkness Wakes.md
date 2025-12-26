@@ -7,7 +7,7 @@ The gates of Arcanis should have been magnificent. Three stories of enchanted wh
 
 Instead, they were a chokepoint of chaos.
 
-Kaelen stood in what passed for a line, watching guards try to process the flood of refugees while maintaining some semblance of security. It wasn't going well. People shouted, children cried, and the smell of unwashed bodies and fear hung thick in the air.
+Kaelen stood in what passed for a line—two days since they'd left Oakhaven, and the world had already turned upside down. He watched guards try to process the flood of refugees while maintaining some semblance of security. It wasn't going well. People shouted, children cried, and the smell of unwashed bodies and fear hung thick in the air.
 
 "This is a disaster," Lyra observed beside him, bow slung across her back but hand never far from it. "They're not equipped for this volume of displaced people."
 
@@ -17,7 +17,9 @@ Kaelen stood in what passed for a line, watching guards try to process the flood
 
 "You'd be surprised how often common sense isn't."
 
-Their part of the caravan had been split up at the gates. Horvath and his cargo wagons had been expedited through a merchant entrance—apparently magical components trumped refugee processing. Gorim had gone with him, citing responsibility to the contract. Rakken had simply vanished the way rangers did. Elise had been summarily appropriated by the Mages' Guild, leaving Kaelen and Lyra to shepherd their refugee group through the bureaucratic nightmare.
+Their part of the caravan had been split up at the gates. Horvath and his cargo wagons had been expedited through a merchant entrance—apparently magical components trumped refugee processing. Gorim had gone with him, citing responsibility to the contract. Rakken had simply vanished the way rangers did—though Lyra had heard he'd been conscripted by the city watch, his tracking skills too valuable to waste on merchant work. Elise had been summarily appropriated by the Mages' Guild, her talent flagged by the Academy recruiters even as chaos erupted around them. Kaelen hoped they'd made it inside the barrier in time. He didn't want to think about the alternative.
+
+That left Kaelen and Lyra to shepherd their refugee group through the bureaucratic nightmare.
 
 "Next!" the guard called, sounding like he'd rather be literally anywhere else.
 
@@ -481,7 +483,11 @@ War consumed the kingdoms.
 
 And Kaelen, mercenary and survivor, made the decision to stop running.
 
-Just this once.
+Seven years of making sure not to care about anything worth losing. Seven years of survival over purpose, pragmatism over hope. But watching those refugees die outside the barrier—watching people he'd fought beside transform into monsters or simply cease to exist—something had finally broken loose inside him.
+
+Some lines were crossed, and there was no going back.
+
+Just this once, he would stand for something.
 
 He hoped it wouldn't kill him.
 

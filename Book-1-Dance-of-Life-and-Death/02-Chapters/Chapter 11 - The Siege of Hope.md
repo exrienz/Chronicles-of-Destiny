@@ -1,6 +1,8 @@
 # Book 1: The Dance of Life and Death
 ## Chapter 11: The Siege of Hope
 
+*Fourteen weeks since the Demon King's return. Day 21 of the siege.*
+
 The decision came at dawn on the twenty-first day of the siege, when the food stores hit critical levels and demon assaults showed no signs of stopping.
 
 Kaelen stood in the war room, watching Archmage Selene place colored markers on a massive map of Mythosia. Red for demon-controlled territories. Blue for Alliance holdings. The red was spreading like a bloodstain across parchment.
@@ -71,7 +73,13 @@ Grimm looked down at his hands. "They will be outside."
 
 "The reality is we're ensuring the Alliance survives!" Elfiria's voice cracked like a whip, silencing the room. "Do you think I want this? Do you think I want to be the one who draws the line and decides who falls on which side? Dead kingdoms can't mount resistance movements! If Arcanis falls, if all five capitals fall, there's no hope for anyone! This way, some people survive. Some hope remains. That's better than total extinction!"
 
-She was shaking, tears streaming down her face, but her voice didn't waver. "I will bear the sin of this. I will carry the ghosts of everyone we leave behind. But I will not let the human race end because we refused to make the hard choice."
+She was shaking, tears streaming down her face, but her voice didn't waver. "I will bear the sin of this. I will carry the ghosts of everyone we leave behind. The guilt of every child who dies because I drew the line where I did, every mother who curses my name with her last breath. But I will not let the human race end because we refused to make the hard choice."
+
+"What about the captured General?" Thrain demanded. "The one you took at the Void-Breaker raid. Xylos. Has he told you anything useful, or was that slaughter also meaningless?"
+
+"General Xylos is still under interrogation," Aldric replied carefully. "The wards containing him are... straining. We've learned some tactical intelligence about demon supply lines, but nothing that changes the fundamental situation."
+
+"So he rots in your dungeons while my people rot in the borderlands. Justice."
 
 Kaelen spoke before he consciously decided to. "She's right."
 
