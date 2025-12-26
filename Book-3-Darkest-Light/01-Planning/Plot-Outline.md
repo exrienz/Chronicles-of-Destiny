@@ -184,7 +184,10 @@ Brief scenes showing:
 - During the fight, their eyes meet—
 - **SOUL CONNECTION**: Their hero marks RESONATE
 - Time seems to stop; they both feel it
-- More than recognition—he feels her pain, her imprisonment
+- Not just attraction, but **SHARED PAIN**:
+  - Bryn feels her 2 years of torture
+  - Fin feels his grief for his dead parents
+- They are two halves of the same wounded soul
 - Bryn: "Who... are you?"
 - Fin (fighting Seccubus from inside): "Help... me..."
 - First spark of something deeper than destiny
@@ -255,9 +258,10 @@ Brief scenes showing:
 - Ignisar holds them off but tiring
 - Surrounded; seems hopeless
 
-**The Cavalry:**
+**The Cavalry (B-Plot Convergence):**
 - **Trinity (Lyra & Drakon) + The Exiled appear!**
-- Lyra commanding tactical strike
+- Note: Chapters 4, 7, 11 have established Lyra holding the line
+- Lyra commanding tactical strike; she's been tracking demon movements for weeks
 - Drakon in full dragon form: "SMALL NEW HERO! HOLD ON!"
 - 5,000 Exiled warriors slam into demon flank
 - Epic rescue battle; demons driven back

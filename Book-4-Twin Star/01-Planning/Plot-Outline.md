@@ -160,10 +160,13 @@ And no one—not Kaelen, not the twin heroes, not even the ancient dragon Ignisa
 - Plan: Kaelen trains heroes while Lyra/Drakon prepare forces
 
 **Chapter 4: Generals Fall**
+**Chapter 4: Generals Fall**
 - Demon King personally kills Malakor and Seccubus
 - "You failed me. Twice. I need no weak servants."
-- Absorbs their power
-- Shows he's DIFFERENT—ruthless even to his own
+- Malakor: Accepts fate with warrior's dignity
+- Seccubus: **SCREAMS in genuine terror**—shattering his "calm manipulator" persona
+- Demon King absorbs their power effortlessly
+- Shows he's DIFFERENT—ruthless even to his own; villains realize they are disposable
 
 **Chapter 5: The Training Begins**
 - Kaelen begins training Fin and Bryn
@@ -274,7 +277,9 @@ And no one—not Kaelen, not the twin heroes, not even the ancient dragon Ignisa
 - War over; demons without leader scatter/flee
 - Mythosia begins to heal
 - **Kaelen's funeral:** All kingdoms gather, Trinity says goodbye
-- Lyra and Drakon live on, carrying his legacy
+- Lyra hands Kaelen's sword to Bryn: "He wanted you to have this. It's not just a weapon. It's a responsibility."
+- Drakon bows to Fin: "He saved you because he knew you would save us."
+- Lyra and Drakon retire to rebuild; leaving the fighting to the young
 - Fin and Bryn become new generation's protectors
 - Final image: Sunrise over healing land; Kaelen's grave beside Elfiria and Aric's memorial
 

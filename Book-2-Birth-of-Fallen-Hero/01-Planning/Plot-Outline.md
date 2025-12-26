@@ -135,8 +135,11 @@ Seccubus recognized the hero marks at Fin's birth and saw an opportunity. For 18
 **Chapter 6: Training in Truth**
 - Kaelen personally trains Fin
 - He shows her the reality of war—brutal, unfair, endless
-- Her beliefs crack further
-- Seccubus whispers: "They use you. Like they used Elfiria."
+- Her beliefs crack, but she FIGHTS to hold onto them
+- "If we lose hope, we've already lost."
+- Thalia supports her: "See? She's strong. Stronger than you think."
+- Seccubus whispers: "They use you. But ONLY I understand you."
+- Fin rejects the voice: "Get out of my head!" (First active resistance)
 
 **Chapter 7: Whispers and Screams**
 - Fin's nightmares intensify—Seccubus appears as her dead escort
@@ -148,6 +151,9 @@ Seccubus recognized the hero marks at Fin's birth and saw an opportunity. For 18
 - Major demon assault on outer stronghold
 - Fin freezes in combat; people die because of her
 - Guilt overwhelms her; Seccubus uses it as leverage
+- Thalia jumps in to save Fin, nearly dying herself
+- "I've got you, Fin! Move!"
+- Fin sees Thalia bleeding for her—triggers massive burst of power
 - Drakon gravely wounded protecting civilians
 - "This is what heroism costs. Let me teach you a better way."
 
